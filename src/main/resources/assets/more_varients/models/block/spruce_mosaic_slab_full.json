@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "more_varients:block/a",
+    "top": "more_varients:block/a",
+    "side": "more_varients:block/a"
+  },
+  "render_type": "cutout"
+}

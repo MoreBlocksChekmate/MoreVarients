@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "more_varients:block/red_concrete",
+    "top": "more_varients:block/red_concrete",
+    "side": "more_varients:block/red_concrete"
+  },
+  "render_type": "solid"
+}

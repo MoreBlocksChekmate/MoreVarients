@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:gray_concrete"
+    }
+  },
+  "result": {
+    "item": "more_varients:gray_concrete_stairs",
+    "count": 4
+  }
+}

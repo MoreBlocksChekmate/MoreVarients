@@ -1,0 +1,22 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "recipeRetstackSize": 1,
+    "group": "smelting",
+    "cookingBookCategory": "BLOCKS",
+    "xpReward": 0.1,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "Blocks.STONE#6"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:CrackedPolishedAndesite"
+    },
+    "name": "cracked_polished_ande",
+    "namespace": "mod"
+  }
+}

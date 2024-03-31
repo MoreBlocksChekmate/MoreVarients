@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "more_varients:block/crimson_mosaic",
+    "top": "more_varients:block/crimson_mosaic",
+    "side": "more_varients:block/crimson_mosaic"
+  },
+  "render_type": "cutout"
+}

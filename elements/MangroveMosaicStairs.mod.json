@@ -1,0 +1,48 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "BUILDING",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:MangroveMosaic"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:MangroveMosaic"
+      },
+      {
+        "value": "CUSTOM:MangroveMosaic"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:MangroveMosaic"
+      },
+      {
+        "value": "CUSTOM:MangroveMosaic"
+      },
+      {
+        "value": "CUSTOM:MangroveMosaic"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:MangroveStairs"
+    },
+    "name": "mangrove_mosaic_stairs",
+    "namespace": "mod"
+  }
+}

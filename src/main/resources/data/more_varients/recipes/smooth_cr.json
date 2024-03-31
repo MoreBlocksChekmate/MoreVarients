@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aa",
+    "  ",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:crimson_planks"
+    }
+  },
+  "result": {
+    "item": "more_varients:smooth_crimson_planks",
+    "count": 4
+  }
+}

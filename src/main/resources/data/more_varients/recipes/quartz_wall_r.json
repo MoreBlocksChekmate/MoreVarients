@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:quartz_block"
+    }
+  },
+  "result": {
+    "item": "more_varients:quartz_walls",
+    "count": 6
+  }
+}

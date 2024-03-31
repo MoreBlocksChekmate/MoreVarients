@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "more_varients:block/gray_terracotta_salb"
+    },
+    "type=top": {
+      "model": "more_varients:block/gray_terracotta_salb_top"
+    },
+    "type=double": {
+      "model": "more_varients:block/gray_terracotta_salb_full"
+    }
+  }
+}

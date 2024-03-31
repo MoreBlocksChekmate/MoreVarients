@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "a",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:acacia_log"
+    }
+  },
+  "result": {
+    "item": "more_varients:chipped_acacia_log",
+    "count": 2
+  }
+}

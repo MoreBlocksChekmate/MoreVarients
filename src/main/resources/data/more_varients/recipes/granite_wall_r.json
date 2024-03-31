@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "more_varients:granite_bricks"
+    }
+  },
+  "result": {
+    "item": "more_varients:granite_brick_wall",
+    "count": 6
+  }
+}

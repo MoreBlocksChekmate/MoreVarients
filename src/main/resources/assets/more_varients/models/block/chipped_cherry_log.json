@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "more_varients:block/stripped_cherry_log_top",
+    "up": "more_varients:block/stripped_cherry_log_top",
+    "north": "more_varients:block/chiseled_cherry_log",
+    "east": "more_varients:block/chiseled_cherry_log",
+    "south": "more_varients:block/chiseled_cherry_log",
+    "west": "more_varients:block/chiseled_cherry_log",
+    "particle": "more_varients:block/stripped_cherry_log_top"
+  },
+  "render_type": "solid"
+}

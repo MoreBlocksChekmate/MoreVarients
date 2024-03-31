@@ -1,0 +1,48 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "BUILDING",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:OakMosaic"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:OakMosaic"
+      },
+      {
+        "value": "CUSTOM:OakMosaic"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:OakMosaic"
+      },
+      {
+        "value": "CUSTOM:OakMosaic"
+      },
+      {
+        "value": "CUSTOM:OakMosaic"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:OakStairs"
+    },
+    "name": "oak_mosaic_stairs",
+    "namespace": "mod"
+  }
+}

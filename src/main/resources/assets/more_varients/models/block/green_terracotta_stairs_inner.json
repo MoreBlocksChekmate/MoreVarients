@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "more_varients:block/green_terracotta",
+    "top": "more_varients:block/green_terracotta",
+    "side": "more_varients:block/green_terracotta"
+  },
+  "render_type": "solid"
+}

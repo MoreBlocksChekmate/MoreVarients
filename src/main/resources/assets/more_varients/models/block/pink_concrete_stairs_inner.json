@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "more_varients:block/pink_concrete",
+    "top": "more_varients:block/pink_concrete",
+    "side": "more_varients:block/pink_concrete"
+  },
+  "render_type": "solid"
+}

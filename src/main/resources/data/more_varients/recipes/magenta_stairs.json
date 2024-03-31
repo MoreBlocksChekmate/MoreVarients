@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:magenta_concrete"
+    }
+  },
+  "result": {
+    "item": "more_varients:magenta_concrete_stairs",
+    "count": 4
+  }
+}

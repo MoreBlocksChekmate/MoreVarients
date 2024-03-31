@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:brown_concrete"
+    }
+  },
+  "result": {
+    "item": "more_varients:brown_concrete_slab",
+    "count": 6
+  }
+}

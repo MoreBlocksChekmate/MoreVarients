@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "more_varients:block/oak_log_top",
+    "up": "more_varients:block/oak_log_top",
+    "north": "more_varients:block/chiseled_oak_log",
+    "east": "more_varients:block/chiseled_oak_log",
+    "south": "more_varients:block/chiseled_oak_log",
+    "west": "more_varients:block/chiseled_oak_log",
+    "particle": "more_varients:block/oak_log_top"
+  },
+  "render_type": "solid"
+}

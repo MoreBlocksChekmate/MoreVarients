@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "more_varients:block/cherry_mosaic",
+    "top": "more_varients:block/cherry_mosaic",
+    "side": "more_varients:block/cherry_mosaic"
+  },
+  "render_type": "solid"
+}

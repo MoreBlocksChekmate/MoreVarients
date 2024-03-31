@@ -1,0 +1,48 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "BUILDING",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:SmoothCherryPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SmoothCherryPlanks"
+      },
+      {
+        "value": "CUSTOM:SmoothCherryPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SmoothCherryPlanks"
+      },
+      {
+        "value": "CUSTOM:SmoothCherryPlanks"
+      },
+      {
+        "value": "CUSTOM:SmoothCherryPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SmoothCherryStairs"
+    },
+    "name": "smooth_ch_s",
+    "namespace": "mod"
+  }
+}

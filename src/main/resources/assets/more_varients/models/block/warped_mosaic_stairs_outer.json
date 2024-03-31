@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "more_varients:block/warped_mosaic",
+    "top": "more_varients:block/warped_mosaic",
+    "side": "more_varients:block/warped_mosaic"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,37 @@
+{
+  "_fv": 57,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:GraniteBrickWall"
+      },
+      {
+        "value": "CUSTOM:AndesiteBrickWall"
+      },
+      {
+        "value": "CUSTOM:DioriteBrickWall"
+      },
+      {
+        "value": "CUSTOM:QuartzWalls"
+      },
+      {
+        "value": "CUSTOM:QuartzBrickWalls"
+      },
+      {
+        "value": "CUSTOM:SmoothQuartzWalls"
+      },
+      {
+        "value": "CUSTOM:PillaredQuartzWall"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "damageTypes": [],
+    "name": "walls",
+    "namespace": "minecraft"
+  }
+}

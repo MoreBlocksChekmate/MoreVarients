@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "more_varients:red_concrete_slab",
+    "more_varients:blue_concrete_slab",
+    "more_varients:light_blue_concrete_slab",
+    "more_varients:white_concrete_slab",
+    "more_varients:orange_concrete_slab",
+    "more_varients:magenta_concrete_slab",
+    "more_varients:yellow_concrete_slab",
+    "more_varients:lime_concrete_slab",
+    "more_varients:gray_concrete_slab",
+    "more_varients:light_gray_concrete_slab",
+    "more_varients:cyan_concrete_slab",
+    "more_varients:purple_concrete_slab",
+    "more_varients:brown_concrete_slab",
+    "more_varients:green_concrete_slab",
+    "more_varients:black_concrete_slab",
+    "more_varients:pink_concrete_slab"
+  ]
+}

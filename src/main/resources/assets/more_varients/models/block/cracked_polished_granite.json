@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "more_varients:block/cracked_polished_granite",
+    "up": "more_varients:block/cracked_polished_granite",
+    "north": "more_varients:block/cracked_polished_granite",
+    "east": "more_varients:block/cracked_polished_granite",
+    "south": "more_varients:block/cracked_polished_granite",
+    "west": "more_varients:block/cracked_polished_granite",
+    "particle": "more_varients:block/cracked_polished_granite"
+  },
+  "render_type": "solid"
+}

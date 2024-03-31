@@ -1,0 +1,48 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "BUILDING",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.CONCRETE#10"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.CONCRETE#10"
+      },
+      {
+        "value": "Blocks.CONCRETE#10"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.CONCRETE#10"
+      },
+      {
+        "value": "Blocks.CONCRETE#10"
+      },
+      {
+        "value": "Blocks.CONCRETE#10"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PurpleConcreteStairs"
+    },
+    "name": "purple_stairs",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "BUILDING",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:SpruceMosaic"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SpruceMosaic"
+      },
+      {
+        "value": "CUSTOM:SpruceMosaic"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SpruceMosaic"
+      },
+      {
+        "value": "CUSTOM:SpruceMosaic"
+      },
+      {
+        "value": "CUSTOM:SpruceMosaic"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SpruceMosaicStairs"
+    },
+    "name": "spruce_stairs",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "a",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:mangrove_log"
+    }
+  },
+  "result": {
+    "item": "more_varients:chipped_mangrove_log",
+    "count": 2
+  }
+}

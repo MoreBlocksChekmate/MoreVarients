@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "more_varients:block/smooth_stone",
+    "top": "more_varients:block/smooth_stone",
+    "side": "more_varients:block/smooth_stone"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "more_varients:block/cherry_mosaic",
+    "top": "more_varients:block/cherry_mosaic",
+    "side": "more_varients:block/cherry_mosaic"
+  },
+  "render_type": "cutout"
+}

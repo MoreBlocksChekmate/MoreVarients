@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "more_varients:diorite_bricks"
+    }
+  },
+  "result": {
+    "item": "more_varients:diorite_brick_slab",
+    "count": 6
+  }
+}

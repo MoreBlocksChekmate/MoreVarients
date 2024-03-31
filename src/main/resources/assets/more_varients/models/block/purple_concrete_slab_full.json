@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "more_varients:block/purple_concrete",
+    "top": "more_varients:block/purple_concrete",
+    "side": "more_varients:block/purple_concrete"
+  },
+  "render_type": "solid"
+}

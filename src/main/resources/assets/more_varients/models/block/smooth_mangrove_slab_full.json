@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "more_varients:block/smooth_mangrove_planks",
+    "top": "more_varients:block/smooth_mangrove_planks",
+    "side": "more_varients:block/smooth_mangrove_planks"
+  },
+  "render_type": "solid"
+}

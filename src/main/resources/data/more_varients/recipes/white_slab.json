@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:white_concrete"
+    }
+  },
+  "result": {
+    "item": "more_varients:white_concrete_slab",
+    "count": 6
+  }
+}

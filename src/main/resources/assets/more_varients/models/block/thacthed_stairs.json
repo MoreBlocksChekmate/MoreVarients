@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "more_varients:block/hay_block_top",
+    "top": "more_varients:block/hay_block_top",
+    "side": "more_varients:block/hay_block_side"
+  },
+  "render_type": "solid"
+}

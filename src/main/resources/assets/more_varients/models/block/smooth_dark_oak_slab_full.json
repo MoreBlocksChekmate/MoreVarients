@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "more_varients:block/smooth_dark_oak_planks",
+    "top": "more_varients:block/smooth_dark_oak_planks",
+    "side": "more_varients:block/smooth_dark_oak_planks"
+  },
+  "render_type": "solid"
+}

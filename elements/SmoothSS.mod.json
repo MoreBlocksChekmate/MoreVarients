@@ -1,0 +1,48 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "BUILDING",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:SmoothSprucePlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SmoothSprucePlanks"
+      },
+      {
+        "value": "CUSTOM:SmoothSprucePlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SmoothSprucePlanks"
+      },
+      {
+        "value": "CUSTOM:SmoothSprucePlanks"
+      },
+      {
+        "value": "CUSTOM:SmoothSprucePlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SmoothSpruceSairs"
+    },
+    "name": "smooth_ss",
+    "namespace": "mod"
+  }
+}

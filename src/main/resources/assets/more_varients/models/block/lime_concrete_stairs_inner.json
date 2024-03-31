@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "more_varients:block/lime_concrete",
+    "top": "more_varients:block/lime_concrete",
+    "side": "more_varients:block/lime_concrete"
+  },
+  "render_type": "solid"
+}

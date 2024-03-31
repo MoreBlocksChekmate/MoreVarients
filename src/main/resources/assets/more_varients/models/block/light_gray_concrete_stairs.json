@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "more_varients:block/light_gray_concrete",
+    "top": "more_varients:block/light_gray_concrete",
+    "side": "more_varients:block/light_gray_concrete"
+  },
+  "render_type": "solid"
+}

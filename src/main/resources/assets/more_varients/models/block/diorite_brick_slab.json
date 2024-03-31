@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "more_varients:block/diorite_bricks",
+    "top": "more_varients:block/diorite_bricks",
+    "side": "more_varients:block/diorite_bricks"
+  },
+  "render_type": "solid"
+}

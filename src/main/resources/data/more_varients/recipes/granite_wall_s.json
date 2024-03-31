@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "more_varients:granite_bricks"
+  },
+  "result": "more_varients:granite_brick_wall"
+}

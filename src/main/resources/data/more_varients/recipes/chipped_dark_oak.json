@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "a",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:dark_oak_log"
+    }
+  },
+  "result": {
+    "item": "more_varients:chipped_dark_oak_log",
+    "count": 2
+  }
+}

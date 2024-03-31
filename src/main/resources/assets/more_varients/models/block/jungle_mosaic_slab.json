@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "more_varients:block/jungle_mosaic",
+    "top": "more_varients:block/jungle_mosaic",
+    "side": "more_varients:block/jungle_mosaic"
+  },
+  "render_type": "cutout"
+}

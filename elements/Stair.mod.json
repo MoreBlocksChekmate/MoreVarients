@@ -1,0 +1,64 @@
+{
+  "_fv": 57,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:RedConcreteStairs"
+      },
+      {
+        "value": "CUSTOM:BlueConcreteStairs"
+      },
+      {
+        "value": "CUSTOM:LightBlueConcreteStairs"
+      },
+      {
+        "value": "CUSTOM:WhiteConcreteStairs"
+      },
+      {
+        "value": "CUSTOM:OrangeConcreteStairs"
+      },
+      {
+        "value": "CUSTOM:MagentaConcreteStairs"
+      },
+      {
+        "value": "CUSTOM:YellowConcreteStairs"
+      },
+      {
+        "value": "CUSTOM:LimeConcreteStairs"
+      },
+      {
+        "value": "CUSTOM:GrayConcreteStairs"
+      },
+      {
+        "value": "CUSTOM:LightGrayConcreteStairs"
+      },
+      {
+        "value": "CUSTOM:CyanConcreteStairs"
+      },
+      {
+        "value": "CUSTOM:PurpleConcreteStairs"
+      },
+      {
+        "value": "CUSTOM:BrownConcreteStairs"
+      },
+      {
+        "value": "CUSTOM:GreenConcreteStairs"
+      },
+      {
+        "value": "CUSTOM:BlackConcreteStairs"
+      },
+      {
+        "value": "CUSTOM:PinkConcreteStairs"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "damageTypes": [],
+    "name": "stairs",
+    "namespace": "minecraft"
+  }
+}

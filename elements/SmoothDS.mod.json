@@ -1,0 +1,48 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "BUILDING",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:SmoothDarkOakPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SmoothDarkOakPlanks"
+      },
+      {
+        "value": "CUSTOM:SmoothDarkOakPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SmoothDarkOakPlanks"
+      },
+      {
+        "value": "CUSTOM:SmoothDarkOakPlanks"
+      },
+      {
+        "value": "CUSTOM:SmoothDarkOakPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SmoothDarkOakStairs"
+    },
+    "name": "smooth_ds",
+    "namespace": "mod"
+  }
+}

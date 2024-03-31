@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "more_varients:spruce_mosaic",
+    "more_varients:acacia_mosaic",
+    "more_varients:birch_mosaic",
+    "more_varients:cherry_mosaic",
+    "more_varients:crimson_mosaic",
+    "more_varients:dark_oak_mosaic",
+    "more_varients:jungle_mosaic",
+    "more_varients:mangrove_mosaic",
+    "more_varients:oak_mosaic",
+    "more_varients:warped_mosaic",
+    "more_varients:smooth_acacia_planks",
+    "more_varients:smooth_birch_planks",
+    "more_varients:smooth_cherry_planks",
+    "more_varients:smooth_crimson_planks",
+    "more_varients:smooth_dark_oak_planks",
+    "more_varients:smooth_mangrove_planks",
+    "more_varients:smooth_jungle_planks",
+    "more_varients:smooth_oak_planks",
+    "more_varients:smooth_spruce_planks",
+    "more_varients:smooth_warped_planks"
+  ]
+}

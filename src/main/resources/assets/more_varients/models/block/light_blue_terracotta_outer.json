@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "more_varients:block/light_blue_terracotta",
+    "top": "more_varients:block/light_blue_terracotta",
+    "side": "more_varients:block/light_blue_terracotta"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aa",
+    "  ",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:dark_oak_planks"
+    }
+  },
+  "result": {
+    "item": "more_varients:smooth_dark_oak_planks",
+    "count": 4
+  }
+}

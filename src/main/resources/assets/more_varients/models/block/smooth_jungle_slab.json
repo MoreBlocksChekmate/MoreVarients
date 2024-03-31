@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "more_varients:block/smooth_jungle_planks",
+    "top": "more_varients:block/smooth_jungle_planks",
+    "side": "more_varients:block/smooth_jungle_planks"
+  },
+  "render_type": "solid"
+}

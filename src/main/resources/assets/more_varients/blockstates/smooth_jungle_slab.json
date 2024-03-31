@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "more_varients:block/smooth_jungle_slab"
+    },
+    "type=top": {
+      "model": "more_varients:block/smooth_jungle_slab_top"
+    },
+    "type=double": {
+      "model": "more_varients:block/smooth_jungle_slab_full"
+    }
+  }
+}

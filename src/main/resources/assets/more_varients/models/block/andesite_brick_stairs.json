@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "more_varients:block/andesite_bricks",
+    "top": "more_varients:block/andesite_bricks",
+    "side": "more_varients:block/andesite_bricks"
+  },
+  "render_type": "solid"
+}

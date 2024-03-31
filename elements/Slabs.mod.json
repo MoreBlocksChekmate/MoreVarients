@@ -1,0 +1,64 @@
+{
+  "_fv": 57,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:RedConcreteSlab"
+      },
+      {
+        "value": "CUSTOM:BlueConcreteSlab"
+      },
+      {
+        "value": "CUSTOM:LightBlueConcreteSlab"
+      },
+      {
+        "value": "CUSTOM:WhiteConcreteSlab"
+      },
+      {
+        "value": "CUSTOM:OrangeConcreteSlab"
+      },
+      {
+        "value": "CUSTOM:MagentaConcreteSlab"
+      },
+      {
+        "value": "CUSTOM:YellowConcreteSlab"
+      },
+      {
+        "value": "CUSTOM:LimeConcreteSlab"
+      },
+      {
+        "value": "CUSTOM:GrayConcreteSlab"
+      },
+      {
+        "value": "CUSTOM:LightGrayConcreteSlab"
+      },
+      {
+        "value": "CUSTOM:CyanConcreteSlab"
+      },
+      {
+        "value": "CUSTOM:PurpleConcreteSlab"
+      },
+      {
+        "value": "CUSTOM:BrownConcreteSlab"
+      },
+      {
+        "value": "CUSTOM:GreenConcreteSlab"
+      },
+      {
+        "value": "CUSTOM:BlackConcreteSlab"
+      },
+      {
+        "value": "CUSTOM:PinkConcreteSlab"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "damageTypes": [],
+    "name": "slabs",
+    "namespace": "minecraft"
+  }
+}

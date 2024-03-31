@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "more_varients:block/spruce_log_top",
+    "up": "more_varients:block/spruce_log_top",
+    "north": "more_varients:block/8",
+    "east": "more_varients:block/8",
+    "south": "more_varients:block/8",
+    "west": "more_varients:block/8",
+    "particle": "more_varients:block/spruce_log_top"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,76 @@
+{
+  "_fv": 57,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:SpruceMosaic"
+      },
+      {
+        "value": "CUSTOM:AcaciaMosaic"
+      },
+      {
+        "value": "CUSTOM:BirchMosaic"
+      },
+      {
+        "value": "CUSTOM:CherryMosaic"
+      },
+      {
+        "value": "CUSTOM:CrimsonMosaic"
+      },
+      {
+        "value": "CUSTOM:DarkOakMosaic"
+      },
+      {
+        "value": "CUSTOM:JungleMosaic"
+      },
+      {
+        "value": "CUSTOM:MangroveMosaic"
+      },
+      {
+        "value": "CUSTOM:OakMosaic"
+      },
+      {
+        "value": "CUSTOM:WarpedMosaic"
+      },
+      {
+        "value": "CUSTOM:SmoothAcaciaPlanks"
+      },
+      {
+        "value": "CUSTOM:SmoothBirchPlanks"
+      },
+      {
+        "value": "CUSTOM:SmoothCherryPlanks"
+      },
+      {
+        "value": "CUSTOM:SmoothCrimsonPlanks"
+      },
+      {
+        "value": "CUSTOM:SmoothDarkOakPlanks"
+      },
+      {
+        "value": "CUSTOM:SmoothMangrovePlanks"
+      },
+      {
+        "value": "CUSTOM:SmoothJunglePlanks"
+      },
+      {
+        "value": "CUSTOM:SmoothOakPlanks"
+      },
+      {
+        "value": "CUSTOM:SmoothSprucePlanks"
+      },
+      {
+        "value": "CUSTOM:SmoothWarpedPlanks"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "damageTypes": [],
+    "name": "planks",
+    "namespace": "minecraft"
+  }
+}

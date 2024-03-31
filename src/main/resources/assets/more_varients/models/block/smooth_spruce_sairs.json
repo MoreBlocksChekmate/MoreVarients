@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "more_varients:block/smooth_spruce_planks",
+    "top": "more_varients:block/smooth_spruce_planks",
+    "side": "more_varients:block/smooth_spruce_planks"
+  },
+  "render_type": "solid"
+}

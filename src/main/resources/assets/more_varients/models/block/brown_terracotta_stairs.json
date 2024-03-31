@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "more_varients:block/brown_terracotta",
+    "top": "more_varients:block/brown_terracotta",
+    "side": "more_varients:block/brown_terracotta"
+  },
+  "render_type": "solid"
+}

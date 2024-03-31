@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "more_varients:granite_brick_wall",
+    "more_varients:andesite_brick_wall",
+    "more_varients:diorite_brick_wall",
+    "more_varients:quartz_walls",
+    "more_varients:quartz_brick_walls",
+    "more_varients:smooth_quartz_walls",
+    "more_varients:pillared_quartz_wall"
+  ]
+}
