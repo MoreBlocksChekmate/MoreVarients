@@ -43,7 +43,7 @@
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
-      "value": "CUSTOM:MoreVariantStairs"
+      "value": "CUSTOM:MoreSlabs"
     },
     "destroyTool": "Not specified",
     "customDrop": {
