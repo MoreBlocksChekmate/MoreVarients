@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "tag": "minecraft:stonebricks"
+    }
+  ],
+  "result": {
+    "item": "more_varients:brick_stonecarving_template",
+    "count": 1
+  }
+}

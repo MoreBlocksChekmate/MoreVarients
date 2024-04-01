@@ -1,0 +1,49 @@
+{
+  "_fv": 57,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:GraniteBricks"
+      },
+      {
+        "value": "CUSTOM:AndesiteBricks"
+      },
+      {
+        "value": "CUSTOM:DioriteBricks"
+      },
+      {
+        "value": "Blocks.DEEPSLATE_BRICKS"
+      },
+      {
+        "value": "Blocks.MUD_BRICKS"
+      },
+      {
+        "value": "Blocks.POLISHED_BLACKSTONE_BRICKS"
+      },
+      {
+        "value": "Blocks.QUARTZ_BRICKS"
+      },
+      {
+        "value": "Blocks.STONEBRICK#0"
+      },
+      {
+        "value": "Blocks.STONEBRICK#1"
+      },
+      {
+        "value": "Blocks.END_BRICKS"
+      },
+      {
+        "value": "Blocks.PRISMARINE#1"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "damageTypes": [],
+    "name": "stonebricks",
+    "namespace": "minecraft"
+  }
+}

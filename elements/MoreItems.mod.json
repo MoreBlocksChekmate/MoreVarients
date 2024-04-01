@@ -1,0 +1,11 @@
+{
+  "_fv": 57,
+  "_type": "tab",
+  "definition": {
+    "name": "More Items",
+    "icon": {
+      "value": "CUSTOM:BrickStonecarvingTemplate"
+    },
+    "showSearch": true
+  }
+}

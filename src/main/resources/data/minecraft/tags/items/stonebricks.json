@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "more_varients:granite_bricks",
+    "more_varients:andesite_bricks",
+    "more_varients:diorite_bricks",
+    "minecraft:deepslate_bricks",
+    "minecraft:mud_bricks",
+    "minecraft:polished_blackstone_bricks",
+    "minecraft:quartz_bricks",
+    "minecraft:stone_bricks",
+    "minecraft:mossy_stone_bricks",
+    "minecraft:end_stone_bricks",
+    "minecraft:prismarine_bricks"
+  ]
+}

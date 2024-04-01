@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "more_varients:brick_stonecarving_template"
+    },
+    {
+      "item": "minecraft:granite"
+    },
+    {
+      "item": "minecraft:granite"
+    }
+  ],
+  "result": {
+    "item": "more_varients:granite_bricks",
+    "count": 2
+  }
+}
