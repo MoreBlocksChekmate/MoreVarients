@@ -12,6 +12,8 @@ import net.minecraft.world.level.block.Block;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.item.BlockItem;
 
+import net.mcreator.morevarients.item.MosaicWoodcuttingTemplateItem;
+import net.mcreator.morevarients.item.ChippedWoodcuttingTemplateItem;
 import net.mcreator.morevarients.item.BrickStonecarvingTemplateItem;
 import net.mcreator.morevarients.MoreVarientsMod;
 
@@ -50,7 +52,6 @@ public class MoreVarientsModItems {
 	public static final RegistryObject<Item> MAGENTA_TERRACOTTA_STAIRS = block(MoreVarientsModBlocks.MAGENTA_TERRACOTTA_STAIRS);
 	public static final RegistryObject<Item> PINK_TERRACOTTA_STAIRS = block(MoreVarientsModBlocks.PINK_TERRACOTTA_STAIRS);
 	public static final RegistryObject<Item> TERRACOTTA_STAIRS = block(MoreVarientsModBlocks.TERRACOTTA_STAIRS);
-	public static final RegistryObject<Item> THACTHED_STAIRS = block(MoreVarientsModBlocks.THACTHED_STAIRS);
 	public static final RegistryObject<Item> SMOOTH_STONE_STAIRS = block(MoreVarientsModBlocks.SMOOTH_STONE_STAIRS);
 	public static final RegistryObject<Item> GRANITE_BRICK_STAIRS = block(MoreVarientsModBlocks.GRANITE_BRICK_STAIRS);
 	public static final RegistryObject<Item> ANDESITE_BRICK_STAIRS = block(MoreVarientsModBlocks.ANDESITE_BRICK_STAIRS);
@@ -76,6 +77,7 @@ public class MoreVarientsModItems {
 	public static final RegistryObject<Item> SMOOTH_OAK_STAIRS = block(MoreVarientsModBlocks.SMOOTH_OAK_STAIRS);
 	public static final RegistryObject<Item> SMOOTH_SPRUCE_SAIRS = block(MoreVarientsModBlocks.SMOOTH_SPRUCE_SAIRS);
 	public static final RegistryObject<Item> SMOOTH_WARPED_STAIRS = block(MoreVarientsModBlocks.SMOOTH_WARPED_STAIRS);
+	public static final RegistryObject<Item> THACTHED_STAIRS = block(MoreVarientsModBlocks.THACTHED_STAIRS);
 	public static final RegistryObject<Item> WHITE_CONCRETE_SLAB = block(MoreVarientsModBlocks.WHITE_CONCRETE_SLAB);
 	public static final RegistryObject<Item> LIGHT_GRAY_CONCRETE_SLAB = block(MoreVarientsModBlocks.LIGHT_GRAY_CONCRETE_SLAB);
 	public static final RegistryObject<Item> GRAY_CONCRETE_SLAB = block(MoreVarientsModBlocks.GRAY_CONCRETE_SLAB);
@@ -98,7 +100,17 @@ public class MoreVarientsModItems {
 	public static final RegistryObject<Item> GRAY_TERRACOTTA_SALB = block(MoreVarientsModBlocks.GRAY_TERRACOTTA_SALB);
 	public static final RegistryObject<Item> BROWN_TERRACOTTA_SLAB = block(MoreVarientsModBlocks.BROWN_TERRACOTTA_SLAB);
 	public static final RegistryObject<Item> BLACK_TERRACOTTA_SLAB = block(MoreVarientsModBlocks.BLACK_TERRACOTTA_SLAB);
-	public static final RegistryObject<Item> THATCHED_SLAB = block(MoreVarientsModBlocks.THATCHED_SLAB);
+	public static final RegistryObject<Item> RED_TERRACOTTA_SLAB = block(MoreVarientsModBlocks.RED_TERRACOTTA_SLAB);
+	public static final RegistryObject<Item> ORANGE_TERRACOTTA_SLAB = block(MoreVarientsModBlocks.ORANGE_TERRACOTTA_SLAB);
+	public static final RegistryObject<Item> YELLOW_TERRACOTTA_SLAB = block(MoreVarientsModBlocks.YELLOW_TERRACOTTA_SLAB);
+	public static final RegistryObject<Item> LIME_TERRACOTTA_SLAB = block(MoreVarientsModBlocks.LIME_TERRACOTTA_SLAB);
+	public static final RegistryObject<Item> GREEN_TERRACOTTA_SLAB = block(MoreVarientsModBlocks.GREEN_TERRACOTTA_SLAB);
+	public static final RegistryObject<Item> CYAN_TERRACOTTA_SLAB = block(MoreVarientsModBlocks.CYAN_TERRACOTTA_SLAB);
+	public static final RegistryObject<Item> LIGHT_BLUE_TERRACOTTA_SLAB = block(MoreVarientsModBlocks.LIGHT_BLUE_TERRACOTTA_SLAB);
+	public static final RegistryObject<Item> BLUE_TERRACOTTA_SLAB = block(MoreVarientsModBlocks.BLUE_TERRACOTTA_SLAB);
+	public static final RegistryObject<Item> PURPLE_TERRACOTTA_SLAB = block(MoreVarientsModBlocks.PURPLE_TERRACOTTA_SLAB);
+	public static final RegistryObject<Item> MAGENTA_TERRACOTTA_SLAB = block(MoreVarientsModBlocks.MAGENTA_TERRACOTTA_SLAB);
+	public static final RegistryObject<Item> PINK_TERRACOTTA_SLAB = block(MoreVarientsModBlocks.PINK_TERRACOTTA_SLAB);
 	public static final RegistryObject<Item> GRANITE_BRICK_SLAB = block(MoreVarientsModBlocks.GRANITE_BRICK_SLAB);
 	public static final RegistryObject<Item> DIORITE_BRICK_SLAB = block(MoreVarientsModBlocks.DIORITE_BRICK_SLAB);
 	public static final RegistryObject<Item> ANDESITE_BRICK_SLAB = block(MoreVarientsModBlocks.ANDESITE_BRICK_SLAB);
@@ -123,6 +135,7 @@ public class MoreVarientsModItems {
 	public static final RegistryObject<Item> SMOOTH_OAK_SLAB = block(MoreVarientsModBlocks.SMOOTH_OAK_SLAB);
 	public static final RegistryObject<Item> SMOOTH_SPRUCE_SLAB = block(MoreVarientsModBlocks.SMOOTH_SPRUCE_SLAB);
 	public static final RegistryObject<Item> SMOOTH_WARPED_SLAB = block(MoreVarientsModBlocks.SMOOTH_WARPED_SLAB);
+	public static final RegistryObject<Item> THATCHED_SLAB = block(MoreVarientsModBlocks.THATCHED_SLAB);
 	public static final RegistryObject<Item> CRACKED_POLISHED_GRANITE = block(MoreVarientsModBlocks.CRACKED_POLISHED_GRANITE);
 	public static final RegistryObject<Item> CRACKED_POLISHED_ANDESITE = block(MoreVarientsModBlocks.CRACKED_POLISHED_ANDESITE);
 	public static final RegistryObject<Item> CRACKED_POLISHED_DIORITE = block(MoreVarientsModBlocks.CRACKED_POLISHED_DIORITE);
@@ -169,18 +182,9 @@ public class MoreVarientsModItems {
 	public static final RegistryObject<Item> QUARTZ_BRICK_WALLS = block(MoreVarientsModBlocks.QUARTZ_BRICK_WALLS);
 	public static final RegistryObject<Item> SMOOTH_QUARTZ_WALLS = block(MoreVarientsModBlocks.SMOOTH_QUARTZ_WALLS);
 	public static final RegistryObject<Item> PILLARED_QUARTZ_WALL = block(MoreVarientsModBlocks.PILLARED_QUARTZ_WALL);
-	public static final RegistryObject<Item> RED_TERRACOTTA_SLAB = block(MoreVarientsModBlocks.RED_TERRACOTTA_SLAB);
-	public static final RegistryObject<Item> ORANGE_TERRACOTTA_SLAB = block(MoreVarientsModBlocks.ORANGE_TERRACOTTA_SLAB);
-	public static final RegistryObject<Item> YELLOW_TERRACOTTA_SLAB = block(MoreVarientsModBlocks.YELLOW_TERRACOTTA_SLAB);
-	public static final RegistryObject<Item> LIME_TERRACOTTA_SLAB = block(MoreVarientsModBlocks.LIME_TERRACOTTA_SLAB);
-	public static final RegistryObject<Item> GREEN_TERRACOTTA_SLAB = block(MoreVarientsModBlocks.GREEN_TERRACOTTA_SLAB);
-	public static final RegistryObject<Item> CYAN_TERRACOTTA_SLAB = block(MoreVarientsModBlocks.CYAN_TERRACOTTA_SLAB);
-	public static final RegistryObject<Item> LIGHT_BLUE_TERRACOTTA_SLAB = block(MoreVarientsModBlocks.LIGHT_BLUE_TERRACOTTA_SLAB);
-	public static final RegistryObject<Item> BLUE_TERRACOTTA_SLAB = block(MoreVarientsModBlocks.BLUE_TERRACOTTA_SLAB);
-	public static final RegistryObject<Item> PURPLE_TERRACOTTA_SLAB = block(MoreVarientsModBlocks.PURPLE_TERRACOTTA_SLAB);
-	public static final RegistryObject<Item> MAGENTA_TERRACOTTA_SLAB = block(MoreVarientsModBlocks.MAGENTA_TERRACOTTA_SLAB);
-	public static final RegistryObject<Item> PINK_TERRACOTTA_SLAB = block(MoreVarientsModBlocks.PINK_TERRACOTTA_SLAB);
 	public static final RegistryObject<Item> BRICK_STONECARVING_TEMPLATE = REGISTRY.register("brick_stonecarving_template", () -> new BrickStonecarvingTemplateItem());
+	public static final RegistryObject<Item> MOSAIC_WOODCUTTING_TEMPLATE = REGISTRY.register("mosaic_woodcutting_template", () -> new MosaicWoodcuttingTemplateItem());
+	public static final RegistryObject<Item> CHIPPED_WOODCUTTING_TEMPLATE = REGISTRY.register("chipped_woodcutting_template", () -> new ChippedWoodcuttingTemplateItem());
 
 	private static RegistryObject<Item> block(RegistryObject<Block> block) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties()));

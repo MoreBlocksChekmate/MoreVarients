@@ -307,7 +307,7 @@
     {
       "name": "MoreVariantStairs",
       "type": "tab",
-      "sortid": 153,
+      "sortid": 167,
       "compiles": true,
       "locked_code": false,
       "registry_name": "more_variant_stairs",
@@ -319,7 +319,7 @@
     {
       "name": "RedStairs",
       "type": "recipe",
-      "sortid": 154,
+      "sortid": 168,
       "compiles": true,
       "locked_code": false,
       "registry_name": "red_stairs",
@@ -333,7 +333,7 @@
     {
       "name": "BlueStairs",
       "type": "recipe",
-      "sortid": 155,
+      "sortid": 169,
       "compiles": true,
       "locked_code": false,
       "registry_name": "blue_stairs",
@@ -347,7 +347,7 @@
     {
       "name": "LightBlueStairs",
       "type": "recipe",
-      "sortid": 156,
+      "sortid": 170,
       "compiles": true,
       "locked_code": false,
       "registry_name": "light_blue_stairs",
@@ -361,7 +361,7 @@
     {
       "name": "WhiteStairs",
       "type": "recipe",
-      "sortid": 157,
+      "sortid": 171,
       "compiles": true,
       "locked_code": false,
       "registry_name": "white_stairs",
@@ -375,7 +375,7 @@
     {
       "name": "OrangeStairs",
       "type": "recipe",
-      "sortid": 158,
+      "sortid": 172,
       "compiles": true,
       "locked_code": false,
       "registry_name": "orange_stairs",
@@ -389,7 +389,7 @@
     {
       "name": "MagentaStairs",
       "type": "recipe",
-      "sortid": 159,
+      "sortid": 173,
       "compiles": true,
       "locked_code": false,
       "registry_name": "magenta_stairs",
@@ -403,7 +403,7 @@
     {
       "name": "YellowStairs",
       "type": "recipe",
-      "sortid": 160,
+      "sortid": 174,
       "compiles": true,
       "locked_code": false,
       "registry_name": "yellow_stairs",
@@ -417,7 +417,7 @@
     {
       "name": "LimeStairs",
       "type": "recipe",
-      "sortid": 161,
+      "sortid": 175,
       "compiles": true,
       "locked_code": false,
       "registry_name": "lime_stairs",
@@ -431,7 +431,7 @@
     {
       "name": "GrayStairs",
       "type": "recipe",
-      "sortid": 162,
+      "sortid": 176,
       "compiles": true,
       "locked_code": false,
       "registry_name": "gray_stairs",
@@ -445,7 +445,7 @@
     {
       "name": "LightGrayStairs",
       "type": "recipe",
-      "sortid": 163,
+      "sortid": 177,
       "compiles": true,
       "locked_code": false,
       "registry_name": "light_gray_stairs",
@@ -459,7 +459,7 @@
     {
       "name": "CyanStairs",
       "type": "recipe",
-      "sortid": 164,
+      "sortid": 178,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cyan_stairs",
@@ -473,7 +473,7 @@
     {
       "name": "PurpleStairs",
       "type": "recipe",
-      "sortid": 165,
+      "sortid": 179,
       "compiles": true,
       "locked_code": false,
       "registry_name": "purple_stairs",
@@ -487,7 +487,7 @@
     {
       "name": "BrownStairs",
       "type": "recipe",
-      "sortid": 166,
+      "sortid": 180,
       "compiles": true,
       "locked_code": false,
       "registry_name": "brown_stairs",
@@ -501,7 +501,7 @@
     {
       "name": "GreenStairs",
       "type": "recipe",
-      "sortid": 167,
+      "sortid": 181,
       "compiles": true,
       "locked_code": false,
       "registry_name": "green_stairs",
@@ -515,7 +515,7 @@
     {
       "name": "BlackStairs",
       "type": "recipe",
-      "sortid": 168,
+      "sortid": 182,
       "compiles": true,
       "locked_code": false,
       "registry_name": "black_stairs",
@@ -529,7 +529,7 @@
     {
       "name": "PinkStairs",
       "type": "recipe",
-      "sortid": 169,
+      "sortid": 183,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pink_stairs",
@@ -562,7 +562,7 @@
     {
       "name": "MoreSlabs",
       "type": "tab",
-      "sortid": 170,
+      "sortid": 184,
       "compiles": true,
       "locked_code": false,
       "registry_name": "more_slabs",
@@ -859,7 +859,7 @@
     {
       "name": "RedSlab",
       "type": "recipe",
-      "sortid": 171,
+      "sortid": 185,
       "compiles": true,
       "locked_code": false,
       "registry_name": "red_slab",
@@ -873,7 +873,7 @@
     {
       "name": "BlueSlab",
       "type": "recipe",
-      "sortid": 172,
+      "sortid": 186,
       "compiles": true,
       "locked_code": false,
       "registry_name": "blue_slab",
@@ -887,7 +887,7 @@
     {
       "name": "LightBlueSlab",
       "type": "recipe",
-      "sortid": 173,
+      "sortid": 187,
       "compiles": true,
       "locked_code": false,
       "registry_name": "light_blue_slab",
@@ -901,7 +901,7 @@
     {
       "name": "WhiteSlab",
       "type": "recipe",
-      "sortid": 174,
+      "sortid": 188,
       "compiles": true,
       "locked_code": false,
       "registry_name": "white_slab",
@@ -915,7 +915,7 @@
     {
       "name": "OrangeSlab",
       "type": "recipe",
-      "sortid": 175,
+      "sortid": 189,
       "compiles": true,
       "locked_code": false,
       "registry_name": "orange_slab",
@@ -929,7 +929,7 @@
     {
       "name": "MagentaSlab",
       "type": "recipe",
-      "sortid": 176,
+      "sortid": 190,
       "compiles": true,
       "locked_code": false,
       "registry_name": "magenta_slab",
@@ -943,7 +943,7 @@
     {
       "name": "YellowSlab",
       "type": "recipe",
-      "sortid": 177,
+      "sortid": 191,
       "compiles": true,
       "locked_code": false,
       "registry_name": "yellow_slab",
@@ -957,7 +957,7 @@
     {
       "name": "LimeSlab",
       "type": "recipe",
-      "sortid": 178,
+      "sortid": 192,
       "compiles": true,
       "locked_code": false,
       "registry_name": "lime_slab",
@@ -971,7 +971,7 @@
     {
       "name": "GraySlab",
       "type": "recipe",
-      "sortid": 179,
+      "sortid": 193,
       "compiles": true,
       "locked_code": false,
       "registry_name": "gray_slab",
@@ -985,7 +985,7 @@
     {
       "name": "LightGraySlab",
       "type": "recipe",
-      "sortid": 180,
+      "sortid": 194,
       "compiles": true,
       "locked_code": false,
       "registry_name": "light_gray_slab",
@@ -999,7 +999,7 @@
     {
       "name": "CyanSlab",
       "type": "recipe",
-      "sortid": 181,
+      "sortid": 195,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cyan_slab",
@@ -1013,7 +1013,7 @@
     {
       "name": "PurpleSlab",
       "type": "recipe",
-      "sortid": 182,
+      "sortid": 196,
       "compiles": true,
       "locked_code": false,
       "registry_name": "purple_slab",
@@ -1027,7 +1027,7 @@
     {
       "name": "BrownSlab",
       "type": "recipe",
-      "sortid": 183,
+      "sortid": 197,
       "compiles": true,
       "locked_code": false,
       "registry_name": "brown_slab",
@@ -1041,7 +1041,7 @@
     {
       "name": "GreenSlab",
       "type": "recipe",
-      "sortid": 184,
+      "sortid": 198,
       "compiles": true,
       "locked_code": false,
       "registry_name": "green_slab",
@@ -1055,7 +1055,7 @@
     {
       "name": "BlackSlab",
       "type": "recipe",
-      "sortid": 185,
+      "sortid": 199,
       "compiles": true,
       "locked_code": false,
       "registry_name": "black_slab",
@@ -1069,7 +1069,7 @@
     {
       "name": "PinkSlab",
       "type": "recipe",
-      "sortid": 186,
+      "sortid": 200,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pink_slab",
@@ -1083,7 +1083,7 @@
     {
       "name": "MoreBlocks",
       "type": "tab",
-      "sortid": 187,
+      "sortid": 201,
       "compiles": true,
       "locked_code": false,
       "registry_name": "more_blocks",
@@ -1095,7 +1095,7 @@
     {
       "name": "CrackedPolishedAndesite",
       "type": "block",
-      "sortid": 108,
+      "sortid": 119,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cracked_polished_andesite",
@@ -1112,7 +1112,7 @@
     {
       "name": "CrackedPolishedAnde",
       "type": "recipe",
-      "sortid": 188,
+      "sortid": 202,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cracked_polished_ande",
@@ -1126,7 +1126,7 @@
     {
       "name": "CrackedPolishedGranite",
       "type": "block",
-      "sortid": 107,
+      "sortid": 118,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cracked_polished_granite",
@@ -1143,7 +1143,7 @@
     {
       "name": "CrackedPolishedGran",
       "type": "recipe",
-      "sortid": 189,
+      "sortid": 203,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cracked_polished_gran",
@@ -1157,7 +1157,7 @@
     {
       "name": "CrackedPolishedDiorite",
       "type": "block",
-      "sortid": 109,
+      "sortid": 120,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cracked_polished_diorite",
@@ -1174,7 +1174,7 @@
     {
       "name": "CrackedPolishedDio",
       "type": "recipe",
-      "sortid": 190,
+      "sortid": 204,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cracked_polished_dio",
@@ -1188,7 +1188,7 @@
     {
       "name": "CrackedPolishedDeepslate",
       "type": "block",
-      "sortid": 110,
+      "sortid": 121,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cracked_polished_deepslate",
@@ -1205,7 +1205,7 @@
     {
       "name": "CrackedPolishedBlackstone",
       "type": "block",
-      "sortid": 111,
+      "sortid": 122,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cracked_polished_blackstone",
@@ -1222,7 +1222,7 @@
     {
       "name": "CrackedPolishedDeep",
       "type": "recipe",
-      "sortid": 191,
+      "sortid": 205,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cracked_polished_deep",
@@ -1236,7 +1236,7 @@
     {
       "name": "CrackedPolishedBlack",
       "type": "recipe",
-      "sortid": 192,
+      "sortid": 206,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cracked_polished_black",
@@ -1250,7 +1250,7 @@
     {
       "name": "ThacthedStairs",
       "type": "block",
-      "sortid": 34,
+      "sortid": 59,
       "compiles": true,
       "locked_code": false,
       "registry_name": "thacthed_stairs",
@@ -1269,7 +1269,7 @@
     {
       "name": "ThatchedSlab",
       "type": "block",
-      "sortid": 82,
+      "sortid": 117,
       "compiles": true,
       "locked_code": false,
       "registry_name": "thatched_slab",
@@ -1288,7 +1288,7 @@
     {
       "name": "SmoothStoneStairs",
       "type": "block",
-      "sortid": 35,
+      "sortid": 34,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_stone_stairs",
@@ -1307,7 +1307,7 @@
     {
       "name": "GraniteBricks",
       "type": "block",
-      "sortid": 112,
+      "sortid": 123,
       "compiles": true,
       "locked_code": false,
       "registry_name": "granite_bricks",
@@ -1324,7 +1324,7 @@
     {
       "name": "AndesiteBricks",
       "type": "block",
-      "sortid": 114,
+      "sortid": 125,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite_bricks",
@@ -1341,7 +1341,7 @@
     {
       "name": "DioriteBricks",
       "type": "block",
-      "sortid": 113,
+      "sortid": 124,
       "compiles": true,
       "locked_code": false,
       "registry_name": "diorite_bricks",
@@ -1358,7 +1358,7 @@
     {
       "name": "GraniteBrickSlab",
       "type": "block",
-      "sortid": 83,
+      "sortid": 93,
       "compiles": true,
       "locked_code": false,
       "registry_name": "granite_brick_slab",
@@ -1377,7 +1377,7 @@
     {
       "name": "AndesiteBrickSlab",
       "type": "block",
-      "sortid": 85,
+      "sortid": 95,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite_brick_slab",
@@ -1396,7 +1396,7 @@
     {
       "name": "DioriteBrickSlab",
       "type": "block",
-      "sortid": 84,
+      "sortid": 94,
       "compiles": true,
       "locked_code": false,
       "registry_name": "diorite_brick_slab",
@@ -1415,7 +1415,7 @@
     {
       "name": "GraniteBricksSlab",
       "type": "recipe",
-      "sortid": 193,
+      "sortid": 207,
       "compiles": true,
       "locked_code": false,
       "registry_name": "granite_bricks_slab",
@@ -1429,7 +1429,7 @@
     {
       "name": "AndesiteBricksSlab",
       "type": "recipe",
-      "sortid": 194,
+      "sortid": 208,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite_bricks_slab",
@@ -1443,7 +1443,7 @@
     {
       "name": "DioriteBricksSlab",
       "type": "recipe",
-      "sortid": 195,
+      "sortid": 209,
       "compiles": true,
       "locked_code": false,
       "registry_name": "diorite_bricks_slab",
@@ -1457,7 +1457,7 @@
     {
       "name": "GraniteBricksCutter",
       "type": "recipe",
-      "sortid": 196,
+      "sortid": 210,
       "compiles": true,
       "locked_code": false,
       "registry_name": "granite_bricks_cutter",
@@ -1471,7 +1471,7 @@
     {
       "name": "AndesiteBricksCutter",
       "type": "recipe",
-      "sortid": 197,
+      "sortid": 211,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite_bricks_cutter",
@@ -1485,7 +1485,7 @@
     {
       "name": "DioriteBricksCutter",
       "type": "recipe",
-      "sortid": 198,
+      "sortid": 212,
       "compiles": true,
       "locked_code": false,
       "registry_name": "diorite_bricks_cutter",
@@ -1499,7 +1499,7 @@
     {
       "name": "DioriteBrickSlabCutter",
       "type": "recipe",
-      "sortid": 199,
+      "sortid": 213,
       "compiles": true,
       "locked_code": false,
       "registry_name": "diorite_brick_slab_cutter",
@@ -1513,7 +1513,7 @@
     {
       "name": "AndesiteBrickSlabCutter",
       "type": "recipe",
-      "sortid": 200,
+      "sortid": 214,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite_brick_slab_cutter",
@@ -1527,7 +1527,7 @@
     {
       "name": "GraniteBrickSlabCutter",
       "type": "recipe",
-      "sortid": 201,
+      "sortid": 215,
       "compiles": true,
       "locked_code": false,
       "registry_name": "granite_brick_slab_cutter",
@@ -1541,7 +1541,7 @@
     {
       "name": "Granite",
       "type": "recipe",
-      "sortid": 202,
+      "sortid": 216,
       "compiles": true,
       "locked_code": false,
       "registry_name": "granite",
@@ -1555,7 +1555,7 @@
     {
       "name": "Andesite",
       "type": "recipe",
-      "sortid": 203,
+      "sortid": 217,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite",
@@ -1569,7 +1569,7 @@
     {
       "name": "Diorite",
       "type": "recipe",
-      "sortid": 204,
+      "sortid": 218,
       "compiles": true,
       "locked_code": false,
       "registry_name": "diorite",
@@ -1583,7 +1583,7 @@
     {
       "name": "GraniteBrickStairs",
       "type": "block",
-      "sortid": 36,
+      "sortid": 35,
       "compiles": true,
       "locked_code": false,
       "registry_name": "granite_brick_stairs",
@@ -1602,7 +1602,7 @@
     {
       "name": "AndesiteBrickStairs",
       "type": "block",
-      "sortid": 37,
+      "sortid": 36,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite_brick_stairs",
@@ -1621,7 +1621,7 @@
     {
       "name": "DioriteBrickStairs",
       "type": "block",
-      "sortid": 38,
+      "sortid": 37,
       "compiles": true,
       "locked_code": false,
       "registry_name": "diorite_brick_stairs",
@@ -1640,7 +1640,7 @@
     {
       "name": "GraniteStair",
       "type": "recipe",
-      "sortid": 208,
+      "sortid": 219,
       "compiles": true,
       "locked_code": false,
       "registry_name": "granite_stair",
@@ -1654,7 +1654,7 @@
     {
       "name": "AndesiteStairs",
       "type": "recipe",
-      "sortid": 209,
+      "sortid": 220,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite_stairs",
@@ -1668,7 +1668,7 @@
     {
       "name": "DioriteStairs",
       "type": "recipe",
-      "sortid": 210,
+      "sortid": 221,
       "compiles": true,
       "locked_code": false,
       "registry_name": "diorite_stairs",
@@ -1682,7 +1682,7 @@
     {
       "name": "AndesiteBricksStairs",
       "type": "recipe",
-      "sortid": 211,
+      "sortid": 222,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite_bricks_stairs",
@@ -1696,7 +1696,7 @@
     {
       "name": "GraniteBricksStairs",
       "type": "recipe",
-      "sortid": 212,
+      "sortid": 223,
       "compiles": true,
       "locked_code": false,
       "registry_name": "granite_bricks_stairs",
@@ -1710,7 +1710,7 @@
     {
       "name": "DioriteBricksStairs",
       "type": "recipe",
-      "sortid": 213,
+      "sortid": 224,
       "compiles": true,
       "locked_code": false,
       "registry_name": "diorite_bricks_stairs",
@@ -1724,7 +1724,7 @@
     {
       "name": "AndesiteStair",
       "type": "recipe",
-      "sortid": 214,
+      "sortid": 225,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite_stair",
@@ -1738,7 +1738,7 @@
     {
       "name": "GraniteStairs",
       "type": "recipe",
-      "sortid": 215,
+      "sortid": 226,
       "compiles": true,
       "locked_code": false,
       "registry_name": "granite_stairs",
@@ -1752,7 +1752,7 @@
     {
       "name": "DioriteStair",
       "type": "recipe",
-      "sortid": 216,
+      "sortid": 227,
       "compiles": true,
       "locked_code": false,
       "registry_name": "diorite_stair",
@@ -1766,7 +1766,7 @@
     {
       "name": "GraniteBrickWall",
       "type": "block",
-      "sortid": 146,
+      "sortid": 157,
       "compiles": true,
       "locked_code": false,
       "registry_name": "granite_brick_wall",
@@ -1786,7 +1786,7 @@
     {
       "name": "MoreWalls",
       "type": "tab",
-      "sortid": 217,
+      "sortid": 228,
       "compiles": true,
       "locked_code": false,
       "registry_name": "more_walls",
@@ -1798,7 +1798,7 @@
     {
       "name": "AndesiteBrickWall",
       "type": "block",
-      "sortid": 148,
+      "sortid": 159,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite_brick_wall",
@@ -1818,7 +1818,7 @@
     {
       "name": "DioriteBrickWall",
       "type": "block",
-      "sortid": 147,
+      "sortid": 158,
       "compiles": true,
       "locked_code": false,
       "registry_name": "diorite_brick_wall",
@@ -1838,7 +1838,7 @@
     {
       "name": "Walls",
       "type": "tag",
-      "sortid": 218,
+      "sortid": 229,
       "compiles": true,
       "locked_code": false,
       "registry_name": "walls",
@@ -1852,7 +1852,7 @@
     {
       "name": "Stair",
       "type": "tag",
-      "sortid": 219,
+      "sortid": 230,
       "compiles": true,
       "locked_code": false,
       "registry_name": "stair",
@@ -1866,7 +1866,7 @@
     {
       "name": "Slabs",
       "type": "tag",
-      "sortid": 220,
+      "sortid": 231,
       "compiles": true,
       "locked_code": false,
       "registry_name": "slabs",
@@ -1880,7 +1880,7 @@
     {
       "name": "ChiseledOakLog",
       "type": "block",
-      "sortid": 122,
+      "sortid": 133,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chipped_oak_log",
@@ -1897,7 +1897,7 @@
     {
       "name": "ChiseledAcaciaLog",
       "type": "block",
-      "sortid": 115,
+      "sortid": 126,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chipped_acacia_log",
@@ -1914,7 +1914,7 @@
     {
       "name": "ChiseledBirchLog",
       "type": "block",
-      "sortid": 116,
+      "sortid": 127,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chipped_birch_log",
@@ -1929,22 +1929,9 @@
       "path": "~/Blocks/Chipped"
     },
     {
-      "name": "LogBlocks",
-      "type": "tag",
-      "sortid": 221,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "log_blocks",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/minecraft/tags/blocks/logs.json"
-        ]
-      }
-    },
-    {
       "name": "ChippedCherryLog",
       "type": "block",
-      "sortid": 117,
+      "sortid": 128,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chipped_cherry_log",
@@ -1961,7 +1948,7 @@
     {
       "name": "ChippedDarkOakLog",
       "type": "block",
-      "sortid": 119,
+      "sortid": 130,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chipped_dark_oak_log",
@@ -1978,7 +1965,7 @@
     {
       "name": "ChippedJungleLog",
       "type": "block",
-      "sortid": 120,
+      "sortid": 131,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chipped_jungle_log",
@@ -1995,7 +1982,7 @@
     {
       "name": "ChippedMangroveLog",
       "type": "block",
-      "sortid": 121,
+      "sortid": 132,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chipped_mangrove_log",
@@ -2012,7 +1999,7 @@
     {
       "name": "ChippedAcaciaLog",
       "type": "recipe",
-      "sortid": 222,
+      "sortid": 233,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chipped_acacia_log",
@@ -2021,12 +2008,12 @@
           "src/main/resources/data/more_varients/recipes/chipped_acacia_log.json"
         ]
       },
-      "path": "~/Recipe/blocks"
+      "path": "~/Recipe/blocks/Chipped"
     },
     {
       "name": "ChippedBirchLog",
       "type": "recipe",
-      "sortid": 223,
+      "sortid": 234,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chipped_birch_log",
@@ -2035,12 +2022,12 @@
           "src/main/resources/data/more_varients/recipes/chipped_birch_log.json"
         ]
       },
-      "path": "~/Recipe/blocks"
+      "path": "~/Recipe/blocks/Chipped"
     },
     {
       "name": "ChippedCherry",
       "type": "recipe",
-      "sortid": 224,
+      "sortid": 235,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chipped_cherry",
@@ -2049,12 +2036,12 @@
           "src/main/resources/data/more_varients/recipes/chipped_cherry.json"
         ]
       },
-      "path": "~/Recipe/blocks"
+      "path": "~/Recipe/blocks/Chipped"
     },
     {
       "name": "ChippedDarkOak",
       "type": "recipe",
-      "sortid": 225,
+      "sortid": 236,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chipped_dark_oak",
@@ -2063,12 +2050,12 @@
           "src/main/resources/data/more_varients/recipes/chipped_dark_oak.json"
         ]
       },
-      "path": "~/Recipe/blocks"
+      "path": "~/Recipe/blocks/Chipped"
     },
     {
       "name": "ChippedJungle",
       "type": "recipe",
-      "sortid": 226,
+      "sortid": 237,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chipped_jungle",
@@ -2077,12 +2064,12 @@
           "src/main/resources/data/more_varients/recipes/chipped_jungle.json"
         ]
       },
-      "path": "~/Recipe/blocks"
+      "path": "~/Recipe/blocks/Chipped"
     },
     {
       "name": "ChippedMangrove",
       "type": "recipe",
-      "sortid": 227,
+      "sortid": 238,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chipped_mangrove",
@@ -2091,12 +2078,12 @@
           "src/main/resources/data/more_varients/recipes/chipped_mangrove.json"
         ]
       },
-      "path": "~/Recipe/blocks"
+      "path": "~/Recipe/blocks/Chipped"
     },
     {
       "name": "ChippedOakLog",
       "type": "recipe",
-      "sortid": 228,
+      "sortid": 239,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chipped_oak_log",
@@ -2105,12 +2092,12 @@
           "src/main/resources/data/more_varients/recipes/chipped_oak_log.json"
         ]
       },
-      "path": "~/Recipe/blocks"
+      "path": "~/Recipe/blocks/Chipped"
     },
     {
       "name": "ChippedSpruceLog",
       "type": "block",
-      "sortid": 123,
+      "sortid": 134,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chipped_spruce_log",
@@ -2127,7 +2114,7 @@
     {
       "name": "ChippedSpruce",
       "type": "recipe",
-      "sortid": 229,
+      "sortid": 240,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chipped_spruce",
@@ -2136,12 +2123,12 @@
           "src/main/resources/data/more_varients/recipes/chipped_spruce.json"
         ]
       },
-      "path": "~/Recipe/blocks"
+      "path": "~/Recipe/blocks/Chipped"
     },
     {
       "name": "SpruceMosaic",
       "type": "block",
-      "sortid": 133,
+      "sortid": 144,
       "compiles": true,
       "locked_code": false,
       "registry_name": "spruce_mosaic",
@@ -2158,7 +2145,7 @@
     {
       "name": "SpruceMosaicStairs",
       "type": "block",
-      "sortid": 48,
+      "sortid": 47,
       "compiles": true,
       "locked_code": false,
       "registry_name": "spruce_mosaic_stairs",
@@ -2177,7 +2164,7 @@
     {
       "name": "SpruceMosaicSlab",
       "type": "block",
-      "sortid": 95,
+      "sortid": 105,
       "compiles": true,
       "locked_code": false,
       "registry_name": "spruce_mosaic_slab",
@@ -2196,7 +2183,7 @@
     {
       "name": "AcaciaMosaic",
       "type": "block",
-      "sortid": 125,
+      "sortid": 136,
       "compiles": true,
       "locked_code": false,
       "registry_name": "acacia_mosaic",
@@ -2213,7 +2200,7 @@
     {
       "name": "AcaciaMosaicStairs",
       "type": "block",
-      "sortid": 40,
+      "sortid": 39,
       "compiles": true,
       "locked_code": false,
       "registry_name": "acacia_mosaic_stairs",
@@ -2232,7 +2219,7 @@
     {
       "name": "AcaciaMosaicSlab",
       "type": "block",
-      "sortid": 87,
+      "sortid": 97,
       "compiles": true,
       "locked_code": false,
       "registry_name": "acacia_mosaic_slab",
@@ -2251,7 +2238,7 @@
     {
       "name": "BirchMosaic",
       "type": "block",
-      "sortid": 126,
+      "sortid": 137,
       "compiles": true,
       "locked_code": false,
       "registry_name": "birch_mosaic",
@@ -2268,7 +2255,7 @@
     {
       "name": "BirchMosaicStairs",
       "type": "block",
-      "sortid": 41,
+      "sortid": 40,
       "compiles": true,
       "locked_code": false,
       "registry_name": "birch_mosaic_stairs",
@@ -2287,7 +2274,7 @@
     {
       "name": "BirchMosaicSlab",
       "type": "block",
-      "sortid": 88,
+      "sortid": 98,
       "compiles": true,
       "locked_code": false,
       "registry_name": "birch_mosaic_slab",
@@ -2306,7 +2293,7 @@
     {
       "name": "CherryMosaic",
       "type": "block",
-      "sortid": 127,
+      "sortid": 138,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cherry_mosaic",
@@ -2323,7 +2310,7 @@
     {
       "name": "CherryMosaicSlab",
       "type": "block",
-      "sortid": 89,
+      "sortid": 99,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cherry_mosaic_slab",
@@ -2342,7 +2329,7 @@
     {
       "name": "CherryMosaicStairs",
       "type": "block",
-      "sortid": 42,
+      "sortid": 41,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cherry_mosaic_stairs",
@@ -2361,7 +2348,7 @@
     {
       "name": "CrimsonMosaic",
       "type": "block",
-      "sortid": 128,
+      "sortid": 139,
       "compiles": true,
       "locked_code": false,
       "registry_name": "crimson_mosaic",
@@ -2378,7 +2365,7 @@
     {
       "name": "CrimsonMosaicSlab",
       "type": "block",
-      "sortid": 90,
+      "sortid": 100,
       "compiles": true,
       "locked_code": false,
       "registry_name": "crimson_mosaic_slab",
@@ -2397,7 +2384,7 @@
     {
       "name": "CrimsonMosaicStairs",
       "type": "block",
-      "sortid": 43,
+      "sortid": 42,
       "compiles": true,
       "locked_code": false,
       "registry_name": "crimson_mosaic_stairs",
@@ -2416,7 +2403,7 @@
     {
       "name": "AcaciaMosaicRecipe",
       "type": "recipe",
-      "sortid": 230,
+      "sortid": 241,
       "compiles": true,
       "locked_code": false,
       "registry_name": "acacia_mosaic_recipe",
@@ -2425,12 +2412,12 @@
           "src/main/resources/data/more_varients/recipes/acacia_mosaic_recipe.json"
         ]
       },
-      "path": "~/Recipe/blocks"
+      "path": "~/Recipe/blocks/Mosaic"
     },
     {
       "name": "AcaciaStairs",
       "type": "recipe",
-      "sortid": 231,
+      "sortid": 242,
       "compiles": true,
       "locked_code": false,
       "registry_name": "acacia_stairs",
@@ -2444,7 +2431,7 @@
     {
       "name": "AcaciaSlab",
       "type": "recipe",
-      "sortid": 232,
+      "sortid": 243,
       "compiles": true,
       "locked_code": false,
       "registry_name": "acacia_slab",
@@ -2458,7 +2445,7 @@
     {
       "name": "DarkOakMosaic",
       "type": "block",
-      "sortid": 129,
+      "sortid": 140,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dark_oak_mosaic",
@@ -2475,7 +2462,7 @@
     {
       "name": "JungleMosaic",
       "type": "block",
-      "sortid": 130,
+      "sortid": 141,
       "compiles": true,
       "locked_code": false,
       "registry_name": "jungle_mosaic",
@@ -2492,7 +2479,7 @@
     {
       "name": "MangroveMosaic",
       "type": "block",
-      "sortid": 131,
+      "sortid": 142,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mangrove_mosaic",
@@ -2509,7 +2496,7 @@
     {
       "name": "OakMosaic",
       "type": "block",
-      "sortid": 132,
+      "sortid": 143,
       "compiles": true,
       "locked_code": false,
       "registry_name": "oak_mosaic",
@@ -2526,7 +2513,7 @@
     {
       "name": "WarpedMosaic",
       "type": "block",
-      "sortid": 134,
+      "sortid": 145,
       "compiles": true,
       "locked_code": false,
       "registry_name": "warped_mosaic",
@@ -2543,7 +2530,7 @@
     {
       "name": "BirchMosaicRecipe",
       "type": "recipe",
-      "sortid": 233,
+      "sortid": 244,
       "compiles": true,
       "locked_code": false,
       "registry_name": "birch_mosaic_recipe",
@@ -2552,12 +2539,12 @@
           "src/main/resources/data/more_varients/recipes/birch_mosaic_recipe.json"
         ]
       },
-      "path": "~/Recipe/blocks"
+      "path": "~/Recipe/blocks/Mosaic"
     },
     {
       "name": "CherryMosaicRecipe",
       "type": "recipe",
-      "sortid": 234,
+      "sortid": 245,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cherry_mosaic_recipe",
@@ -2566,12 +2553,12 @@
           "src/main/resources/data/more_varients/recipes/cherry_mosaic_recipe.json"
         ]
       },
-      "path": "~/Recipe/blocks"
+      "path": "~/Recipe/blocks/Mosaic"
     },
     {
       "name": "CrimsonMosaicRecipe",
       "type": "recipe",
-      "sortid": 235,
+      "sortid": 246,
       "compiles": true,
       "locked_code": false,
       "registry_name": "crimson_mosaic_recipe",
@@ -2580,12 +2567,12 @@
           "src/main/resources/data/more_varients/recipes/crimson_mosaic_recipe.json"
         ]
       },
-      "path": "~/Recipe/blocks"
+      "path": "~/Recipe/blocks/Mosaic"
     },
     {
       "name": "DarkOakMosaicRecipe",
       "type": "recipe",
-      "sortid": 236,
+      "sortid": 247,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dark_oak_mosaic_recipe",
@@ -2594,12 +2581,12 @@
           "src/main/resources/data/more_varients/recipes/dark_oak_mosaic_recipe.json"
         ]
       },
-      "path": "~/Recipe/blocks"
+      "path": "~/Recipe/blocks/Mosaic"
     },
     {
       "name": "JungleMosaicRecipe",
       "type": "recipe",
-      "sortid": 237,
+      "sortid": 248,
       "compiles": true,
       "locked_code": false,
       "registry_name": "jungle_mosaic_recipe",
@@ -2608,12 +2595,12 @@
           "src/main/resources/data/more_varients/recipes/jungle_mosaic_recipe.json"
         ]
       },
-      "path": "~/Recipe/blocks"
+      "path": "~/Recipe/blocks/Mosaic"
     },
     {
       "name": "MangroveMosaicRecipe",
       "type": "recipe",
-      "sortid": 238,
+      "sortid": 249,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mangrove_mosaic_recipe",
@@ -2622,12 +2609,12 @@
           "src/main/resources/data/more_varients/recipes/mangrove_mosaic_recipe.json"
         ]
       },
-      "path": "~/Recipe/blocks"
+      "path": "~/Recipe/blocks/Mosaic"
     },
     {
       "name": "OakMosaicRecipe",
       "type": "recipe",
-      "sortid": 239,
+      "sortid": 250,
       "compiles": true,
       "locked_code": false,
       "registry_name": "oak_mosaic_recipe",
@@ -2636,12 +2623,12 @@
           "src/main/resources/data/more_varients/recipes/oak_mosaic_recipe.json"
         ]
       },
-      "path": "~/Recipe/blocks"
+      "path": "~/Recipe/blocks/Mosaic"
     },
     {
       "name": "SpruceMosaicRecipe",
       "type": "recipe",
-      "sortid": 240,
+      "sortid": 251,
       "compiles": true,
       "locked_code": false,
       "registry_name": "spruce_mosaic_recipe",
@@ -2650,12 +2637,12 @@
           "src/main/resources/data/more_varients/recipes/spruce_mosaic_recipe.json"
         ]
       },
-      "path": "~/Recipe/blocks"
+      "path": "~/Recipe/blocks/Mosaic"
     },
     {
       "name": "WarpedMosaicRecipe",
       "type": "recipe",
-      "sortid": 241,
+      "sortid": 252,
       "compiles": true,
       "locked_code": false,
       "registry_name": "warped_mosaic_recipe",
@@ -2664,12 +2651,12 @@
           "src/main/resources/data/more_varients/recipes/warped_mosaic_recipe.json"
         ]
       },
-      "path": "~/Recipe/blocks"
+      "path": "~/Recipe/blocks/Mosaic"
     },
     {
       "name": "DarkOakStairs",
       "type": "block",
-      "sortid": 44,
+      "sortid": 43,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dark_oak_mosaic_stairs",
@@ -2688,7 +2675,7 @@
     {
       "name": "JungleSatirs",
       "type": "block",
-      "sortid": 45,
+      "sortid": 44,
       "compiles": true,
       "locked_code": false,
       "registry_name": "jungle_mosaic_stairs",
@@ -2707,7 +2694,7 @@
     {
       "name": "MangroveStairs",
       "type": "block",
-      "sortid": 46,
+      "sortid": 45,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mangrove_mosaic_stairs",
@@ -2726,7 +2713,7 @@
     {
       "name": "OakStairs",
       "type": "block",
-      "sortid": 47,
+      "sortid": 46,
       "compiles": true,
       "locked_code": false,
       "registry_name": "oak_mosaic_stairs",
@@ -2745,7 +2732,7 @@
     {
       "name": "WarpedStairs",
       "type": "block",
-      "sortid": 49,
+      "sortid": 48,
       "compiles": true,
       "locked_code": false,
       "registry_name": "warped_mosaic_stairs",
@@ -2764,7 +2751,7 @@
     {
       "name": "BirchStairs",
       "type": "recipe",
-      "sortid": 242,
+      "sortid": 253,
       "compiles": true,
       "locked_code": false,
       "registry_name": "birch_stairs",
@@ -2778,7 +2765,7 @@
     {
       "name": "CherryStairs",
       "type": "recipe",
-      "sortid": 243,
+      "sortid": 254,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cherry_stairs",
@@ -2792,7 +2779,7 @@
     {
       "name": "CrimsonStairs",
       "type": "recipe",
-      "sortid": 244,
+      "sortid": 255,
       "compiles": true,
       "locked_code": false,
       "registry_name": "crimson_stairs",
@@ -2806,7 +2793,7 @@
     {
       "name": "DarkOakMosaicStairs",
       "type": "recipe",
-      "sortid": 245,
+      "sortid": 256,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dark_oak_mosaic_stairs",
@@ -2820,7 +2807,7 @@
     {
       "name": "JungleMosaicSatirs",
       "type": "recipe",
-      "sortid": 246,
+      "sortid": 257,
       "compiles": true,
       "locked_code": false,
       "registry_name": "jungle_mosaic_satirs",
@@ -2834,7 +2821,7 @@
     {
       "name": "MangroveMosaicStairs",
       "type": "recipe",
-      "sortid": 247,
+      "sortid": 258,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mangrove_mosaic_stairs",
@@ -2848,7 +2835,7 @@
     {
       "name": "OakMosaicStairs",
       "type": "recipe",
-      "sortid": 248,
+      "sortid": 259,
       "compiles": true,
       "locked_code": false,
       "registry_name": "oak_mosaic_stairs",
@@ -2862,7 +2849,7 @@
     {
       "name": "SpruceStairs",
       "type": "recipe",
-      "sortid": 249,
+      "sortid": 260,
       "compiles": true,
       "locked_code": false,
       "registry_name": "spruce_stairs",
@@ -2876,7 +2863,7 @@
     {
       "name": "WarpedMosaicStairs",
       "type": "recipe",
-      "sortid": 250,
+      "sortid": 261,
       "compiles": true,
       "locked_code": false,
       "registry_name": "warped_mosaic_stairs",
@@ -2890,7 +2877,7 @@
     {
       "name": "DarkOakMosaicSlab",
       "type": "block",
-      "sortid": 91,
+      "sortid": 101,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dark_oak_mosaic_slab",
@@ -2909,7 +2896,7 @@
     {
       "name": "JungleMosaicSlab",
       "type": "block",
-      "sortid": 92,
+      "sortid": 102,
       "compiles": true,
       "locked_code": false,
       "registry_name": "jungle_mosaic_slab",
@@ -2928,7 +2915,7 @@
     {
       "name": "MangroveMosaicSlab",
       "type": "block",
-      "sortid": 93,
+      "sortid": 103,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mangrove_mosaic_slab",
@@ -2947,7 +2934,7 @@
     {
       "name": "OakMosaicSlab",
       "type": "block",
-      "sortid": 94,
+      "sortid": 104,
       "compiles": true,
       "locked_code": false,
       "registry_name": "oak_mosaic_slab",
@@ -2966,7 +2953,7 @@
     {
       "name": "WarpedMosaicSlab",
       "type": "block",
-      "sortid": 96,
+      "sortid": 106,
       "compiles": true,
       "locked_code": false,
       "registry_name": "warped_mosaic_slab",
@@ -2985,7 +2972,7 @@
     {
       "name": "BirchSlab",
       "type": "recipe",
-      "sortid": 251,
+      "sortid": 262,
       "compiles": true,
       "locked_code": false,
       "registry_name": "birch_slab",
@@ -2999,7 +2986,7 @@
     {
       "name": "CherrySalb",
       "type": "recipe",
-      "sortid": 252,
+      "sortid": 263,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cherry_salb",
@@ -3013,7 +3000,7 @@
     {
       "name": "CrimsonSlab",
       "type": "recipe",
-      "sortid": 253,
+      "sortid": 264,
       "compiles": true,
       "locked_code": false,
       "registry_name": "crimson_slab",
@@ -3027,7 +3014,7 @@
     {
       "name": "DarkOakSlab",
       "type": "recipe",
-      "sortid": 254,
+      "sortid": 265,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dark_oak_slab",
@@ -3041,7 +3028,7 @@
     {
       "name": "JungleSalb",
       "type": "recipe",
-      "sortid": 255,
+      "sortid": 266,
       "compiles": true,
       "locked_code": false,
       "registry_name": "jungle_salb",
@@ -3055,7 +3042,7 @@
     {
       "name": "MangroveSlab",
       "type": "recipe",
-      "sortid": 256,
+      "sortid": 267,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mangrove_slab",
@@ -3069,7 +3056,7 @@
     {
       "name": "OakSlab",
       "type": "recipe",
-      "sortid": 257,
+      "sortid": 268,
       "compiles": true,
       "locked_code": false,
       "registry_name": "oak_slab",
@@ -3083,7 +3070,7 @@
     {
       "name": "SpruceSlab",
       "type": "recipe",
-      "sortid": 258,
+      "sortid": 269,
       "compiles": true,
       "locked_code": false,
       "registry_name": "spruce_slab",
@@ -3097,7 +3084,7 @@
     {
       "name": "WarpedSlab",
       "type": "recipe",
-      "sortid": 259,
+      "sortid": 270,
       "compiles": true,
       "locked_code": false,
       "registry_name": "warped_slab",
@@ -3111,7 +3098,7 @@
     {
       "name": "SmoothAcaciaPlanks",
       "type": "block",
-      "sortid": 135,
+      "sortid": 146,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_acacia_planks",
@@ -3128,7 +3115,7 @@
     {
       "name": "SmoothBirchPlanks",
       "type": "block",
-      "sortid": 136,
+      "sortid": 147,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_birch_planks",
@@ -3145,7 +3132,7 @@
     {
       "name": "SmoothCherryPlanks",
       "type": "block",
-      "sortid": 137,
+      "sortid": 148,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_cherry_planks",
@@ -3162,7 +3149,7 @@
     {
       "name": "SmoothCrimsonPlanks",
       "type": "block",
-      "sortid": 138,
+      "sortid": 149,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_crimson_planks",
@@ -3179,7 +3166,7 @@
     {
       "name": "SmoothDarkOakPlanks",
       "type": "block",
-      "sortid": 139,
+      "sortid": 150,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_dark_oak_planks",
@@ -3196,7 +3183,7 @@
     {
       "name": "SmoothMangrovePlanks",
       "type": "block",
-      "sortid": 141,
+      "sortid": 152,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_mangrove_planks",
@@ -3213,7 +3200,7 @@
     {
       "name": "SmoothJunglePlanks",
       "type": "block",
-      "sortid": 140,
+      "sortid": 151,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_jungle_planks",
@@ -3230,7 +3217,7 @@
     {
       "name": "SmoothOakPlanks",
       "type": "block",
-      "sortid": 142,
+      "sortid": 153,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_oak_planks",
@@ -3247,7 +3234,7 @@
     {
       "name": "SmoothSprucePlanks",
       "type": "block",
-      "sortid": 143,
+      "sortid": 154,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_spruce_planks",
@@ -3264,7 +3251,7 @@
     {
       "name": "SmoothWarpedPlanks",
       "type": "block",
-      "sortid": 144,
+      "sortid": 155,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_warped_planks",
@@ -3281,7 +3268,7 @@
     {
       "name": "SmoothAcaciaStairs",
       "type": "block",
-      "sortid": 50,
+      "sortid": 49,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_acacia_stairs",
@@ -3300,7 +3287,7 @@
     {
       "name": "SmoothBirchStairs",
       "type": "block",
-      "sortid": 51,
+      "sortid": 50,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_birch_stairs",
@@ -3319,7 +3306,7 @@
     {
       "name": "SmoothCherryStairs",
       "type": "block",
-      "sortid": 52,
+      "sortid": 51,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_cherry_stairs",
@@ -3338,7 +3325,7 @@
     {
       "name": "SmoothCrimsonStairs",
       "type": "block",
-      "sortid": 53,
+      "sortid": 52,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_crimson_stairs",
@@ -3357,7 +3344,7 @@
     {
       "name": "SmoothDarkOakStairs",
       "type": "block",
-      "sortid": 54,
+      "sortid": 53,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_dark_oak_stairs",
@@ -3376,7 +3363,7 @@
     {
       "name": "SmoothJungleStairs",
       "type": "block",
-      "sortid": 55,
+      "sortid": 54,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_jungle_stairs",
@@ -3395,7 +3382,7 @@
     {
       "name": "SmoothMangroveStairs",
       "type": "block",
-      "sortid": 56,
+      "sortid": 55,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_mangrove_stairs",
@@ -3414,7 +3401,7 @@
     {
       "name": "SmoothOakStairs",
       "type": "block",
-      "sortid": 57,
+      "sortid": 56,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_oak_stairs",
@@ -3433,7 +3420,7 @@
     {
       "name": "SmoothSpruceSairs",
       "type": "block",
-      "sortid": 58,
+      "sortid": 57,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_spruce_sairs",
@@ -3452,7 +3439,7 @@
     {
       "name": "SmoothWarpedStairs",
       "type": "block",
-      "sortid": 59,
+      "sortid": 58,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_warped_stairs",
@@ -3471,7 +3458,7 @@
     {
       "name": "SmoothA",
       "type": "recipe",
-      "sortid": 260,
+      "sortid": 271,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_a",
@@ -3480,12 +3467,12 @@
           "src/main/resources/data/more_varients/recipes/smooth_a.json"
         ]
       },
-      "path": "~/Recipe/blocks"
+      "path": "~/Recipe/blocks/Smooth"
     },
     {
       "name": "SmoothB",
       "type": "recipe",
-      "sortid": 261,
+      "sortid": 272,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_b",
@@ -3494,12 +3481,12 @@
           "src/main/resources/data/more_varients/recipes/smooth_b.json"
         ]
       },
-      "path": "~/Recipe/blocks"
+      "path": "~/Recipe/blocks/Smooth"
     },
     {
       "name": "SmoothCh",
       "type": "recipe",
-      "sortid": 262,
+      "sortid": 273,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_ch",
@@ -3508,12 +3495,12 @@
           "src/main/resources/data/more_varients/recipes/smooth_ch.json"
         ]
       },
-      "path": "~/Recipe/blocks"
+      "path": "~/Recipe/blocks/Smooth"
     },
     {
       "name": "SmoothCr",
       "type": "recipe",
-      "sortid": 263,
+      "sortid": 274,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_cr",
@@ -3522,12 +3509,12 @@
           "src/main/resources/data/more_varients/recipes/smooth_cr.json"
         ]
       },
-      "path": "~/Recipe/blocks"
+      "path": "~/Recipe/blocks/Smooth"
     },
     {
       "name": "SmoothD",
       "type": "recipe",
-      "sortid": 264,
+      "sortid": 275,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_d",
@@ -3536,12 +3523,12 @@
           "src/main/resources/data/more_varients/recipes/smooth_d.json"
         ]
       },
-      "path": "~/Recipe/blocks"
+      "path": "~/Recipe/blocks/Smooth"
     },
     {
       "name": "SmoothJ",
       "type": "recipe",
-      "sortid": 265,
+      "sortid": 276,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_j",
@@ -3550,12 +3537,12 @@
           "src/main/resources/data/more_varients/recipes/smooth_j.json"
         ]
       },
-      "path": "~/Recipe/blocks"
+      "path": "~/Recipe/blocks/Smooth"
     },
     {
       "name": "SmoothM",
       "type": "recipe",
-      "sortid": 266,
+      "sortid": 277,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_m",
@@ -3564,12 +3551,12 @@
           "src/main/resources/data/more_varients/recipes/smooth_m.json"
         ]
       },
-      "path": "~/Recipe/blocks"
+      "path": "~/Recipe/blocks/Smooth"
     },
     {
       "name": "SmoothO",
       "type": "recipe",
-      "sortid": 267,
+      "sortid": 278,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_o",
@@ -3578,12 +3565,12 @@
           "src/main/resources/data/more_varients/recipes/smooth_o.json"
         ]
       },
-      "path": "~/Recipe/blocks"
+      "path": "~/Recipe/blocks/Smooth"
     },
     {
       "name": "SmoothS",
       "type": "recipe",
-      "sortid": 268,
+      "sortid": 279,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_s",
@@ -3592,12 +3579,12 @@
           "src/main/resources/data/more_varients/recipes/smooth_s.json"
         ]
       },
-      "path": "~/Recipe/blocks"
+      "path": "~/Recipe/blocks/Smooth"
     },
     {
       "name": "SmoothW",
       "type": "recipe",
-      "sortid": 269,
+      "sortid": 280,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_w",
@@ -3606,12 +3593,12 @@
           "src/main/resources/data/more_varients/recipes/smooth_w.json"
         ]
       },
-      "path": "~/Recipe/blocks"
+      "path": "~/Recipe/blocks/Smooth"
     },
     {
       "name": "SmoothAcaciaSlab",
       "type": "block",
-      "sortid": 97,
+      "sortid": 107,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_acacia_slab",
@@ -3630,7 +3617,7 @@
     {
       "name": "SmoothBirchSlab",
       "type": "block",
-      "sortid": 98,
+      "sortid": 108,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_birch_slab",
@@ -3649,7 +3636,7 @@
     {
       "name": "SmoothCherrySlab",
       "type": "block",
-      "sortid": 99,
+      "sortid": 109,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_cherry_slab",
@@ -3668,7 +3655,7 @@
     {
       "name": "SmoothCrimsonSlab",
       "type": "block",
-      "sortid": 100,
+      "sortid": 110,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_crimson_slab",
@@ -3687,7 +3674,7 @@
     {
       "name": "SmoothDarkOakSlab",
       "type": "block",
-      "sortid": 101,
+      "sortid": 111,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_dark_oak_slab",
@@ -3706,7 +3693,7 @@
     {
       "name": "SmoothJungleSlab",
       "type": "block",
-      "sortid": 102,
+      "sortid": 112,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_jungle_slab",
@@ -3725,7 +3712,7 @@
     {
       "name": "SmoothMangroveSlab",
       "type": "block",
-      "sortid": 103,
+      "sortid": 113,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_mangrove_slab",
@@ -3744,7 +3731,7 @@
     {
       "name": "SmoothOakSlab",
       "type": "block",
-      "sortid": 104,
+      "sortid": 114,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_oak_slab",
@@ -3763,7 +3750,7 @@
     {
       "name": "SmoothSpruceSlab",
       "type": "block",
-      "sortid": 105,
+      "sortid": 115,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_spruce_slab",
@@ -3782,7 +3769,7 @@
     {
       "name": "SmoothWarpedSlab",
       "type": "block",
-      "sortid": 106,
+      "sortid": 116,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_warped_slab",
@@ -3801,7 +3788,7 @@
     {
       "name": "SmoothAS",
       "type": "recipe",
-      "sortid": 270,
+      "sortid": 281,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_as",
@@ -3813,22 +3800,9 @@
       "path": "~/Recipe/Stairs/Smooth"
     },
     {
-      "name": "PlankItems",
-      "type": "tag",
-      "sortid": 271,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "plank_items",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/minecraft/tags/items/planks.json"
-        ]
-      }
-    },
-    {
       "name": "SmoothBS",
       "type": "recipe",
-      "sortid": 272,
+      "sortid": 283,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_bs",
@@ -3842,7 +3816,7 @@
     {
       "name": "SmoothChS",
       "type": "recipe",
-      "sortid": 273,
+      "sortid": 284,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_ch_s",
@@ -3856,7 +3830,7 @@
     {
       "name": "SmoothCrS",
       "type": "recipe",
-      "sortid": 274,
+      "sortid": 285,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_cr_s",
@@ -3870,7 +3844,7 @@
     {
       "name": "SmoothDS",
       "type": "recipe",
-      "sortid": 275,
+      "sortid": 286,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_ds",
@@ -3884,7 +3858,7 @@
     {
       "name": "SmoothJS",
       "type": "recipe",
-      "sortid": 276,
+      "sortid": 287,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_js",
@@ -3898,7 +3872,7 @@
     {
       "name": "SmoothOS",
       "type": "recipe",
-      "sortid": 277,
+      "sortid": 288,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_os",
@@ -3912,7 +3886,7 @@
     {
       "name": "SmoothMS",
       "type": "recipe",
-      "sortid": 278,
+      "sortid": 289,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_ms",
@@ -3926,7 +3900,7 @@
     {
       "name": "SmoothSS",
       "type": "recipe",
-      "sortid": 279,
+      "sortid": 290,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_ss",
@@ -3940,7 +3914,7 @@
     {
       "name": "SmoothWS",
       "type": "recipe",
-      "sortid": 280,
+      "sortid": 291,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_ws",
@@ -3954,7 +3928,7 @@
     {
       "name": "Smooth1",
       "type": "recipe",
-      "sortid": 281,
+      "sortid": 292,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_1",
@@ -3968,7 +3942,7 @@
     {
       "name": "Smooth2",
       "type": "recipe",
-      "sortid": 282,
+      "sortid": 293,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_2",
@@ -3982,7 +3956,7 @@
     {
       "name": "Smooth3",
       "type": "recipe",
-      "sortid": 283,
+      "sortid": 294,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_3",
@@ -3996,7 +3970,7 @@
     {
       "name": "Smooth4",
       "type": "recipe",
-      "sortid": 284,
+      "sortid": 295,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_4",
@@ -4010,7 +3984,7 @@
     {
       "name": "Smooth5",
       "type": "recipe",
-      "sortid": 285,
+      "sortid": 296,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_5",
@@ -4024,7 +3998,7 @@
     {
       "name": "Smooth6",
       "type": "recipe",
-      "sortid": 286,
+      "sortid": 297,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_6",
@@ -4038,7 +4012,7 @@
     {
       "name": "Smooth7",
       "type": "recipe",
-      "sortid": 287,
+      "sortid": 298,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_7",
@@ -4052,7 +4026,7 @@
     {
       "name": "Smooth8",
       "type": "recipe",
-      "sortid": 288,
+      "sortid": 299,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_8",
@@ -4066,7 +4040,7 @@
     {
       "name": "Smooth9",
       "type": "recipe",
-      "sortid": 289,
+      "sortid": 300,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_9",
@@ -4080,7 +4054,7 @@
     {
       "name": "Smooth10",
       "type": "recipe",
-      "sortid": 290,
+      "sortid": 301,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_10",
@@ -4094,7 +4068,7 @@
     {
       "name": "GraniteWallS",
       "type": "recipe",
-      "sortid": 291,
+      "sortid": 302,
       "compiles": true,
       "locked_code": false,
       "registry_name": "granite_wall_s",
@@ -4108,7 +4082,7 @@
     {
       "name": "DioriteWallS",
       "type": "recipe",
-      "sortid": 292,
+      "sortid": 303,
       "compiles": true,
       "locked_code": false,
       "registry_name": "diorite_wall_s",
@@ -4122,7 +4096,7 @@
     {
       "name": "AndesiteWallS",
       "type": "recipe",
-      "sortid": 293,
+      "sortid": 304,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite_wall_s",
@@ -4136,7 +4110,7 @@
     {
       "name": "QuartzWalls",
       "type": "block",
-      "sortid": 149,
+      "sortid": 160,
       "compiles": true,
       "locked_code": false,
       "registry_name": "quartz_walls",
@@ -4156,7 +4130,7 @@
     {
       "name": "QuartzBrickWalls",
       "type": "block",
-      "sortid": 150,
+      "sortid": 161,
       "compiles": true,
       "locked_code": false,
       "registry_name": "quartz_brick_walls",
@@ -4176,7 +4150,7 @@
     {
       "name": "SmoothQuartzWalls",
       "type": "block",
-      "sortid": 151,
+      "sortid": 162,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_quartz_walls",
@@ -4196,7 +4170,7 @@
     {
       "name": "PillaredQuartzWall",
       "type": "block",
-      "sortid": 152,
+      "sortid": 163,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pillared_quartz_wall",
@@ -4216,7 +4190,7 @@
     {
       "name": "GraniteWall1",
       "type": "recipe",
-      "sortid": 294,
+      "sortid": 305,
       "compiles": true,
       "locked_code": false,
       "registry_name": "granite_wall_1",
@@ -4230,7 +4204,7 @@
     {
       "name": "DioriteWall1",
       "type": "recipe",
-      "sortid": 295,
+      "sortid": 306,
       "compiles": true,
       "locked_code": false,
       "registry_name": "diorite_wall_1",
@@ -4244,7 +4218,7 @@
     {
       "name": "AndesiteWall1",
       "type": "recipe",
-      "sortid": 296,
+      "sortid": 307,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite_wall_1",
@@ -4258,7 +4232,7 @@
     {
       "name": "GraniteWallR",
       "type": "recipe",
-      "sortid": 297,
+      "sortid": 308,
       "compiles": true,
       "locked_code": false,
       "registry_name": "granite_wall_r",
@@ -4272,7 +4246,7 @@
     {
       "name": "AndesiteWallR",
       "type": "recipe",
-      "sortid": 298,
+      "sortid": 309,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite_wall_r",
@@ -4286,7 +4260,7 @@
     {
       "name": "DioriteWallR",
       "type": "recipe",
-      "sortid": 299,
+      "sortid": 310,
       "compiles": true,
       "locked_code": false,
       "registry_name": "diorite_wall_r",
@@ -4300,7 +4274,7 @@
     {
       "name": "QuartzWallR",
       "type": "recipe",
-      "sortid": 300,
+      "sortid": 311,
       "compiles": true,
       "locked_code": false,
       "registry_name": "quartz_wall_r",
@@ -4314,7 +4288,7 @@
     {
       "name": "SmoothQuartzR",
       "type": "recipe",
-      "sortid": 301,
+      "sortid": 312,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_quartz_r",
@@ -4328,7 +4302,7 @@
     {
       "name": "QuartzBrickWallR",
       "type": "recipe",
-      "sortid": 302,
+      "sortid": 313,
       "compiles": true,
       "locked_code": false,
       "registry_name": "quartz_brick_wall_r",
@@ -4342,7 +4316,7 @@
     {
       "name": "PillaredQuartzWallR",
       "type": "recipe",
-      "sortid": 303,
+      "sortid": 314,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pillared_quartz_wall_r",
@@ -4356,7 +4330,7 @@
     {
       "name": "QuartzWallSC",
       "type": "recipe",
-      "sortid": 304,
+      "sortid": 315,
       "compiles": true,
       "locked_code": false,
       "registry_name": "quartz_wall_sc",
@@ -4370,7 +4344,7 @@
     {
       "name": "SmoothQuartzSC",
       "type": "recipe",
-      "sortid": 305,
+      "sortid": 316,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_quartz_sc",
@@ -4384,7 +4358,7 @@
     {
       "name": "QuartzBrickWallSC",
       "type": "recipe",
-      "sortid": 306,
+      "sortid": 317,
       "compiles": true,
       "locked_code": false,
       "registry_name": "quartz_brick_wall_sc",
@@ -4398,7 +4372,7 @@
     {
       "name": "PillaredQuartzWallSC",
       "type": "recipe",
-      "sortid": 307,
+      "sortid": 318,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pillared_quartz_wall_sc",
@@ -4412,7 +4386,7 @@
     {
       "name": "QuartzBrickStairs",
       "type": "block",
-      "sortid": 39,
+      "sortid": 38,
       "compiles": true,
       "locked_code": false,
       "registry_name": "quartz_brick_stairs",
@@ -4431,7 +4405,7 @@
     {
       "name": "QuartzBrickSlab",
       "type": "block",
-      "sortid": 86,
+      "sortid": 96,
       "compiles": true,
       "locked_code": false,
       "registry_name": "quartz_brick_slab",
@@ -4887,7 +4861,7 @@
     {
       "name": "ChipLog",
       "type": "procedure",
-      "sortid": 308,
+      "sortid": 319,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chip_log",
@@ -4927,7 +4901,7 @@
     {
       "name": "AWorldOfColors",
       "type": "achievement",
-      "sortid": 309,
+      "sortid": 320,
       "compiles": true,
       "locked_code": false,
       "registry_name": "a_world_of_colors",
@@ -4941,7 +4915,7 @@
     {
       "name": "Color",
       "type": "procedure",
-      "sortid": 310,
+      "sortid": 321,
       "compiles": true,
       "locked_code": false,
       "registry_name": "color",
@@ -4965,7 +4939,7 @@
     {
       "name": "COLORS",
       "type": "tag",
-      "sortid": 311,
+      "sortid": 322,
       "compiles": true,
       "locked_code": false,
       "registry_name": "colors",
@@ -4979,7 +4953,7 @@
     {
       "name": "ChippedCrimsonStem",
       "type": "block",
-      "sortid": 118,
+      "sortid": 129,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chipped_crimson_stem",
@@ -4996,7 +4970,7 @@
     {
       "name": "ChippedWarpedStem",
       "type": "block",
-      "sortid": 124,
+      "sortid": 135,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chipped_warped_stem",
@@ -5013,7 +4987,7 @@
     {
       "name": "ThatchedSlabR",
       "type": "recipe",
-      "sortid": 312,
+      "sortid": 323,
       "compiles": true,
       "locked_code": false,
       "registry_name": "thatched_slab_r",
@@ -5027,7 +5001,7 @@
     {
       "name": "SmoothStoneStairsR",
       "type": "recipe",
-      "sortid": 313,
+      "sortid": 324,
       "compiles": true,
       "locked_code": false,
       "registry_name": "smooth_stone_stairs_r",
@@ -5041,7 +5015,7 @@
     {
       "name": "ThatchedStairsR",
       "type": "recipe",
-      "sortid": 314,
+      "sortid": 325,
       "compiles": true,
       "locked_code": false,
       "registry_name": "thatched_stairs_r",
@@ -5055,7 +5029,7 @@
     {
       "name": "OakPillars",
       "type": "block",
-      "sortid": 145,
+      "sortid": 156,
       "compiles": true,
       "locked_code": false,
       "registry_name": "oak_pillars",
@@ -5072,7 +5046,7 @@
     {
       "name": "RedTerracottaSlab",
       "type": "block",
-      "sortid": 315,
+      "sortid": 82,
       "compiles": true,
       "locked_code": false,
       "registry_name": "red_terracotta_slab",
@@ -5091,7 +5065,7 @@
     {
       "name": "OrangeTerracottaSlab",
       "type": "block",
-      "sortid": 316,
+      "sortid": 83,
       "compiles": true,
       "locked_code": false,
       "registry_name": "orange_terracotta_slab",
@@ -5110,7 +5084,7 @@
     {
       "name": "YellowTerracottaSlab",
       "type": "block",
-      "sortid": 317,
+      "sortid": 84,
       "compiles": true,
       "locked_code": false,
       "registry_name": "yellow_terracotta_slab",
@@ -5129,7 +5103,7 @@
     {
       "name": "LimeTerracottaSlab",
       "type": "block",
-      "sortid": 318,
+      "sortid": 85,
       "compiles": true,
       "locked_code": false,
       "registry_name": "lime_terracotta_slab",
@@ -5148,7 +5122,7 @@
     {
       "name": "GreenTerracottaSlab",
       "type": "block",
-      "sortid": 319,
+      "sortid": 86,
       "compiles": true,
       "locked_code": false,
       "registry_name": "green_terracotta_slab",
@@ -5167,7 +5141,7 @@
     {
       "name": "CyanTerracottaSlab",
       "type": "block",
-      "sortid": 320,
+      "sortid": 87,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cyan_terracotta_slab",
@@ -5186,7 +5160,7 @@
     {
       "name": "LightBlueTerracottaSlab",
       "type": "block",
-      "sortid": 321,
+      "sortid": 88,
       "compiles": true,
       "locked_code": false,
       "registry_name": "light_blue_terracotta_slab",
@@ -5205,7 +5179,7 @@
     {
       "name": "BlueTerracottaSlab",
       "type": "block",
-      "sortid": 322,
+      "sortid": 89,
       "compiles": true,
       "locked_code": false,
       "registry_name": "blue_terracotta_slab",
@@ -5224,7 +5198,7 @@
     {
       "name": "PurpleTerracottaSlab",
       "type": "block",
-      "sortid": 323,
+      "sortid": 90,
       "compiles": true,
       "locked_code": false,
       "registry_name": "purple_terracotta_slab",
@@ -5243,7 +5217,7 @@
     {
       "name": "MagentaTerracottaSlab",
       "type": "block",
-      "sortid": 324,
+      "sortid": 91,
       "compiles": true,
       "locked_code": false,
       "registry_name": "magenta_terracotta_slab",
@@ -5262,7 +5236,7 @@
     {
       "name": "PinkTerracottaSlab",
       "type": "block",
-      "sortid": 325,
+      "sortid": 92,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pink_terracotta_slab",
@@ -5279,23 +5253,9 @@
       "path": "~/Slabs/Terracotta"
     },
     {
-      "name": "DioriteBrickCarving",
-      "type": "recipe",
-      "sortid": 326,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "diorite_brick_carving",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/more_varients/recipes/diorite_brick_carving.json"
-        ]
-      },
-      "path": "~/Recipe/blocks"
-    },
-    {
       "name": "BrickStonecarvingTemplate",
       "type": "item",
-      "sortid": 327,
+      "sortid": 164,
       "compiles": true,
       "locked_code": false,
       "registry_name": "brick_stonecarving_template",
@@ -5310,7 +5270,7 @@
     {
       "name": "MoreItems",
       "type": "tab",
-      "sortid": 328,
+      "sortid": 326,
       "compiles": true,
       "locked_code": false,
       "registry_name": "more_items",
@@ -5322,7 +5282,7 @@
     {
       "name": "STONEBRICKS",
       "type": "tag",
-      "sortid": 329,
+      "sortid": 327,
       "compiles": true,
       "locked_code": false,
       "registry_name": "stonebricks",
@@ -5336,7 +5296,7 @@
     {
       "name": "BrickStonecarvingR",
       "type": "recipe",
-      "sortid": 330,
+      "sortid": 328,
       "compiles": true,
       "locked_code": false,
       "registry_name": "brick_stonecarving_r",
@@ -5350,7 +5310,7 @@
     {
       "name": "BrickStonecarvingRDuplicate",
       "type": "recipe",
-      "sortid": 331,
+      "sortid": 329,
       "compiles": true,
       "locked_code": false,
       "registry_name": "brick_stonecarving_r_duplicate",
@@ -5364,7 +5324,7 @@
     {
       "name": "DioriteBrickStonecarving",
       "type": "recipe",
-      "sortid": 332,
+      "sortid": 330,
       "compiles": true,
       "locked_code": false,
       "registry_name": "diorite_brick_stonecarving",
@@ -5378,7 +5338,7 @@
     {
       "name": "AndesiteBrickStonecarving",
       "type": "recipe",
-      "sortid": 333,
+      "sortid": 331,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite_brick_stonecarving",
@@ -5392,7 +5352,7 @@
     {
       "name": "GraniteBrickStonecarving",
       "type": "recipe",
-      "sortid": 334,
+      "sortid": 332,
       "compiles": true,
       "locked_code": false,
       "registry_name": "granite_brick_stonecarving",
@@ -5402,6 +5362,134 @@
         ]
       },
       "path": "~/Recipe/blocks/Template"
+    },
+    {
+      "name": "MosaicWoodcuttingTemplate",
+      "type": "item",
+      "sortid": 165,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mosaic_woodcutting_template",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/morevarients/item/MosaicWoodcuttingTemplateItem.java",
+          "src/main/resources/assets/more_varients/models/item/mosaic_woodcutting_template.json"
+        ]
+      },
+      "path": "~/Items"
+    },
+    {
+      "name": "MosaicWoodcuttingTemplateR",
+      "type": "recipe",
+      "sortid": 333,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mosaic_woodcutting_template_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/more_varients/recipes/mosaic_woodcutting_template_r.json"
+        ]
+      },
+      "path": "~/Recipe/Item"
+    },
+    {
+      "name": "ChippedWoodcuttingTemplate",
+      "type": "item",
+      "sortid": 166,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chipped_woodcutting_template",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/morevarients/item/ChippedWoodcuttingTemplateItem.java",
+          "src/main/resources/assets/more_varients/models/item/chipped_woodcutting_template.json"
+        ]
+      },
+      "path": "~/Items"
+    },
+    {
+      "name": "ChippedCrimsonLog",
+      "type": "recipe",
+      "sortid": 334,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chipped_crimson_log",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/more_varients/recipes/chipped_crimson_log.json"
+        ]
+      },
+      "path": "~/Recipe/blocks/Chipped"
+    },
+    {
+      "name": "ChippedWarpedLog",
+      "type": "recipe",
+      "sortid": 335,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chipped_warped_log",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/more_varients/recipes/chipped_warped_log.json"
+        ]
+      },
+      "path": "~/Recipe/blocks/Chipped"
+    },
+    {
+      "name": "MosaicWoodcuttingR",
+      "type": "recipe",
+      "sortid": 336,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mosaic_woodcutting_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/more_varients/recipes/mosaic_woodcutting_r.json"
+        ]
+      },
+      "path": "~/Recipe/Item"
+    },
+    {
+      "name": "ChippedWoodcuttingTemplateR",
+      "type": "recipe",
+      "sortid": 337,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chipped_woodcutting_template_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/more_varients/recipes/chipped_woodcutting_template_r.json"
+        ]
+      },
+      "path": "~/Recipe/Item"
+    },
+    {
+      "name": "PLANKS",
+      "type": "tag",
+      "sortid": 338,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "planks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/tags/items/planks.json"
+        ]
+      },
+      "path": "~/Misc"
+    },
+    {
+      "name": "LOGS",
+      "type": "tag",
+      "sortid": 339,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "logs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/tags/items/logs.json"
+        ]
+      },
+      "path": "~/Misc"
     }
   ],
   "variable_elements": [
@@ -5434,9 +5522,9 @@
       "block.more_varients.jungle_mosaic_stairs": "Jungle Mosaic Stairs",
       "block.more_varients.white_concrete_slab": "White Concrete Slab",
       "block.more_varients.smooth_oak_slab": "Smooth Mangrove Slab",
-      "block.more_varients.black_terracotta_slab": "Black Terracotta Slab",
-      "block.more_varients.andesite_bricks": "Andesite Bricks",
       "block.more_varients.oak_mosaic": "Oak Mosaic",
+      "block.more_varients.andesite_bricks": "Andesite Bricks",
+      "block.more_varients.black_terracotta_slab": "Black Terracotta Slab",
       "block.more_varients.magenta_concrete_stairs": "Magenta Concrete Stairs",
       "block.more_varients.lime_concrete_stairs": "Lime Concrete Stairs",
       "block.more_varients.smooth_acacia_stairs": "Smooth Acacia Stairs",
@@ -5464,6 +5552,7 @@
       "block.more_varients.orange_terracotta_slab": "Orange Terracotta Slab",
       "block.more_varients.cracked_polished_andesite": "Cracked Polished Andesite",
       "block.more_varients.smooth_mangrove_planks": "Smooth Mangrove Planks",
+      "item.more_varients.mosaic_woodcutting_template": "Mosaic Woodcutting Template",
       "block.more_varients.chipped_mangrove_log": "Chipped Mangrove Log",
       "block.more_varients.cyan_concrete_slab": "Cyan Concrete Slab",
       "block.more_varients.cyan_terracotta_slab": "Cyan Terracotta Slab",
@@ -5499,6 +5588,7 @@
       "item_group.more_varients.more_walls": "More Walls",
       "block.more_varients.quartz_brick_stairs": "Quartz Brick Stairs",
       "block.more_varients.white_terracotta_stairs": "White Terracotta Stairs",
+      "item.more_varients.chipped_woodcutting_template": "Chipped Woodcutting Template",
       "block.more_varients.granite_bricks": "Granite Bricks",
       "block.more_varients.purple_terracotta_slab": "Purple Terracotta Slab",
       "block.more_varients.green_concrete_slab": "Green Concrete Slab",
@@ -5658,6 +5748,18 @@
               {
                 "name": "Template",
                 "children": []
+              },
+              {
+                "name": "Mosaic",
+                "children": []
+              },
+              {
+                "name": "Smooth",
+                "children": []
+              },
+              {
+                "name": "Chipped",
+                "children": []
               }
             ]
           },
@@ -5764,7 +5866,10 @@
     "requiredMods": [],
     "dependencies": [],
     "dependants": [],
-    "mcreatorDependencies": [],
+    "mcreatorDependencies": [
+      "patchouli",
+      "jei"
+    ],
     "currentGenerator": "forge-1.20.1",
     "credits": "Created using mod maker MCreator - https://mcreator.net/about",
     "modElementsPackage": "net.mcreator.morevarients",

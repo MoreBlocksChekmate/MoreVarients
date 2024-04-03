@@ -19,4 +19,16 @@ authors="ChekMate80, MCreator"
 
 
 
+[[dependencies.more_varients]]
+    modId="patchouli"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.more_varients]]
+    modId="jei"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
 

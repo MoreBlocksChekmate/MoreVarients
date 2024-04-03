@@ -51,7 +51,6 @@ public class MoreVarientsModTabs {
 				tabData.accept(MoreVarientsModBlocks.MAGENTA_TERRACOTTA_STAIRS.get().asItem());
 				tabData.accept(MoreVarientsModBlocks.PINK_TERRACOTTA_STAIRS.get().asItem());
 				tabData.accept(MoreVarientsModBlocks.TERRACOTTA_STAIRS.get().asItem());
-				tabData.accept(MoreVarientsModBlocks.THACTHED_STAIRS.get().asItem());
 				tabData.accept(MoreVarientsModBlocks.SMOOTH_STONE_STAIRS.get().asItem());
 				tabData.accept(MoreVarientsModBlocks.GRANITE_BRICK_STAIRS.get().asItem());
 				tabData.accept(MoreVarientsModBlocks.ANDESITE_BRICK_STAIRS.get().asItem());
@@ -77,6 +76,7 @@ public class MoreVarientsModTabs {
 				tabData.accept(MoreVarientsModBlocks.SMOOTH_OAK_STAIRS.get().asItem());
 				tabData.accept(MoreVarientsModBlocks.SMOOTH_SPRUCE_SAIRS.get().asItem());
 				tabData.accept(MoreVarientsModBlocks.SMOOTH_WARPED_STAIRS.get().asItem());
+				tabData.accept(MoreVarientsModBlocks.THACTHED_STAIRS.get().asItem());
 			}).withSearchBar().build());
 	public static final RegistryObject<CreativeModeTab> MORE_SLABS = REGISTRY.register("more_slabs",
 			() -> CreativeModeTab.builder().title(Component.translatable("item_group.more_varients.more_slabs")).icon(() -> new ItemStack(MoreVarientsModBlocks.RED_CONCRETE_SLAB.get())).displayItems((parameters, tabData) -> {
@@ -102,7 +102,17 @@ public class MoreVarientsModTabs {
 				tabData.accept(MoreVarientsModBlocks.GRAY_TERRACOTTA_SALB.get().asItem());
 				tabData.accept(MoreVarientsModBlocks.BROWN_TERRACOTTA_SLAB.get().asItem());
 				tabData.accept(MoreVarientsModBlocks.BLACK_TERRACOTTA_SLAB.get().asItem());
-				tabData.accept(MoreVarientsModBlocks.THATCHED_SLAB.get().asItem());
+				tabData.accept(MoreVarientsModBlocks.RED_TERRACOTTA_SLAB.get().asItem());
+				tabData.accept(MoreVarientsModBlocks.ORANGE_TERRACOTTA_SLAB.get().asItem());
+				tabData.accept(MoreVarientsModBlocks.YELLOW_TERRACOTTA_SLAB.get().asItem());
+				tabData.accept(MoreVarientsModBlocks.LIME_TERRACOTTA_SLAB.get().asItem());
+				tabData.accept(MoreVarientsModBlocks.GREEN_TERRACOTTA_SLAB.get().asItem());
+				tabData.accept(MoreVarientsModBlocks.CYAN_TERRACOTTA_SLAB.get().asItem());
+				tabData.accept(MoreVarientsModBlocks.LIGHT_BLUE_TERRACOTTA_SLAB.get().asItem());
+				tabData.accept(MoreVarientsModBlocks.BLUE_TERRACOTTA_SLAB.get().asItem());
+				tabData.accept(MoreVarientsModBlocks.PURPLE_TERRACOTTA_SLAB.get().asItem());
+				tabData.accept(MoreVarientsModBlocks.MAGENTA_TERRACOTTA_SLAB.get().asItem());
+				tabData.accept(MoreVarientsModBlocks.PINK_TERRACOTTA_SLAB.get().asItem());
 				tabData.accept(MoreVarientsModBlocks.GRANITE_BRICK_SLAB.get().asItem());
 				tabData.accept(MoreVarientsModBlocks.DIORITE_BRICK_SLAB.get().asItem());
 				tabData.accept(MoreVarientsModBlocks.ANDESITE_BRICK_SLAB.get().asItem());
@@ -127,17 +137,7 @@ public class MoreVarientsModTabs {
 				tabData.accept(MoreVarientsModBlocks.SMOOTH_OAK_SLAB.get().asItem());
 				tabData.accept(MoreVarientsModBlocks.SMOOTH_SPRUCE_SLAB.get().asItem());
 				tabData.accept(MoreVarientsModBlocks.SMOOTH_WARPED_SLAB.get().asItem());
-				tabData.accept(MoreVarientsModBlocks.RED_TERRACOTTA_SLAB.get().asItem());
-				tabData.accept(MoreVarientsModBlocks.ORANGE_TERRACOTTA_SLAB.get().asItem());
-				tabData.accept(MoreVarientsModBlocks.YELLOW_TERRACOTTA_SLAB.get().asItem());
-				tabData.accept(MoreVarientsModBlocks.LIME_TERRACOTTA_SLAB.get().asItem());
-				tabData.accept(MoreVarientsModBlocks.GREEN_TERRACOTTA_SLAB.get().asItem());
-				tabData.accept(MoreVarientsModBlocks.CYAN_TERRACOTTA_SLAB.get().asItem());
-				tabData.accept(MoreVarientsModBlocks.LIGHT_BLUE_TERRACOTTA_SLAB.get().asItem());
-				tabData.accept(MoreVarientsModBlocks.BLUE_TERRACOTTA_SLAB.get().asItem());
-				tabData.accept(MoreVarientsModBlocks.PURPLE_TERRACOTTA_SLAB.get().asItem());
-				tabData.accept(MoreVarientsModBlocks.MAGENTA_TERRACOTTA_SLAB.get().asItem());
-				tabData.accept(MoreVarientsModBlocks.PINK_TERRACOTTA_SLAB.get().asItem());
+				tabData.accept(MoreVarientsModBlocks.THATCHED_SLAB.get().asItem());
 			})
 
 					.build());
@@ -198,5 +198,7 @@ public class MoreVarientsModTabs {
 	public static final RegistryObject<CreativeModeTab> MORE_ITEMS = REGISTRY.register("more_items",
 			() -> CreativeModeTab.builder().title(Component.translatable("item_group.more_varients.more_items")).icon(() -> new ItemStack(MoreVarientsModItems.BRICK_STONECARVING_TEMPLATE.get())).displayItems((parameters, tabData) -> {
 				tabData.accept(MoreVarientsModItems.BRICK_STONECARVING_TEMPLATE.get());
+				tabData.accept(MoreVarientsModItems.MOSAIC_WOODCUTTING_TEMPLATE.get());
+				tabData.accept(MoreVarientsModItems.CHIPPED_WOODCUTTING_TEMPLATE.get());
 			}).withSearchBar().build());
 }

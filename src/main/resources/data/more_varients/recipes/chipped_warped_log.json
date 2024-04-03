@@ -3,17 +3,17 @@
   "category": "building",
   "ingredients": [
     {
-      "item": "minecraft:cherry_log"
+      "item": "minecraft:warped_stem"
     },
     {
-      "item": "minecraft:cherry_log"
+      "item": "minecraft:warped_stem"
     },
     {
       "item": "more_varients:chipped_woodcutting_template"
     }
   ],
   "result": {
-    "item": "more_varients:chipped_cherry_log",
+    "item": "more_varients:chipped_warped_stem",
     "count": 2
   }
 }

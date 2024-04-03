@@ -3,17 +3,14 @@
   "category": "misc",
   "ingredients": [
     {
-      "item": "minecraft:mangrove_planks"
-    },
-    {
-      "item": "minecraft:mangrove_planks"
+      "item": "minecraft:paper"
     },
     {
       "item": "more_varients:mosaic_woodcutting_template"
     }
   ],
   "result": {
-    "item": "more_varients:mangrove_mosaic",
-    "count": 2
+    "item": "more_varients:mosaic_woodcutting_template",
+    "count": 1
   }
 }

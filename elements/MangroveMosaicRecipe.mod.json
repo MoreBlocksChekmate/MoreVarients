@@ -3,13 +3,13 @@
   "_type": "recipe",
   "definition": {
     "recipeType": "Crafting",
-    "recipeRetstackSize": 1,
+    "recipeRetstackSize": 2,
     "group": "",
     "cookingBookCategory": "MISC",
     "xpReward": 0.0,
     "cookingTime": 200,
     "craftingBookCategory": "MISC",
-    "recipeShapeless": false,
+    "recipeShapeless": true,
     "recipeSlots": [
       {
         "value": ""
@@ -24,7 +24,7 @@
         "value": ""
       },
       {
-        "value": "Blocks.MANGROVE_SLAB"
+        "value": "Blocks.MANGROVE_PLANKS"
       },
       {
         "value": ""
@@ -33,10 +33,10 @@
         "value": ""
       },
       {
-        "value": "Blocks.MANGROVE_SLAB"
+        "value": "Blocks.MANGROVE_PLANKS"
       },
       {
-        "value": ""
+        "value": "CUSTOM:MosaicWoodcuttingTemplate"
       }
     ],
     "recipeReturnStack": {
