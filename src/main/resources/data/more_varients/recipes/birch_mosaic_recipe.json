@@ -1,17 +1,19 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "category": "misc",
-  "pattern": [
-    "a",
-    "a"
-  ],
-  "key": {
-    "a": {
-      "item": "minecraft:birch_slab"
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "minecraft:birch_planks"
+    },
+    {
+      "item": "minecraft:birch_planks"
+    },
+    {
+      "item": "more_varients:mosaic_woodcutting_template"
     }
-  },
+  ],
   "result": {
     "item": "more_varients:birch_mosaic",
-    "count": 1
+    "count": 2
   }
 }

@@ -24,25 +24,25 @@
         "value": ""
       },
       {
-        "value": "CUSTOM:MosaicWoodcuttingTemplate"
-      },
-      {
-        "value": "Blocks.WARPED_PLANKS"
+        "value": "Blocks.WARPED_STEM"
       },
       {
         "value": ""
       },
       {
-        "value": "Blocks.WARPED_PLANKS"
+        "value": ""
       },
       {
-        "value": ""
+        "value": "Blocks.WARPED_STEM"
+      },
+      {
+        "value": "CUSTOM:ChippedWoodcuttingTemplate"
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:WarpedMosaic"
+      "value": "CUSTOM:ChippedWarpedStem"
     },
-    "name": "warped_mosaic_recipe",
+    "name": "chipped_warped_log",
     "namespace": "mod"
   }
 }

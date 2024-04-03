@@ -1,15 +1,17 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "minecraft:crafting_shapeless",
   "category": "building",
-  "pattern": [
-    "a",
-    "a"
-  ],
-  "key": {
-    "a": {
+  "ingredients": [
+    {
       "item": "minecraft:spruce_log"
+    },
+    {
+      "item": "minecraft:spruce_log"
+    },
+    {
+      "item": "more_varients:chipped_woodcutting_template"
     }
-  },
+  ],
   "result": {
     "item": "more_varients:chipped_spruce_log",
     "count": 2

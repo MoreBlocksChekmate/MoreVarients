@@ -1,17 +1,19 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "category": "misc",
-  "pattern": [
-    "a",
-    "a"
-  ],
-  "key": {
-    "a": {
-      "item": "minecraft:spruce_slab"
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "more_varients:mosaic_woodcutting_template"
+    },
+    {
+      "item": "minecraft:spruce_planks"
+    },
+    {
+      "item": "minecraft:spruce_planks"
     }
-  },
+  ],
   "result": {
     "item": "more_varients:spruce_mosaic",
-    "count": 1
+    "count": 2
   }
 }

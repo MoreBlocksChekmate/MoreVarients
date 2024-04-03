@@ -2,20 +2,20 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "pattern": [
-    " a ",
-    "aba",
-    " a "
+    "a",
+    "b",
+    "a"
   ],
   "key": {
     "a": {
-      "tag": "minecraft:stonebricks"
+      "tag": "minecraft:logs"
     },
     "b": {
       "item": "minecraft:paper"
     }
   },
   "result": {
-    "item": "more_varients:brick_stonecarving_template",
+    "item": "more_varients:mosaic_woodcutting_template",
     "count": 2
   }
 }

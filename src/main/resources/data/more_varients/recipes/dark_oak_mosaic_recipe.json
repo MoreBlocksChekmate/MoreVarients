@@ -1,17 +1,19 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "category": "misc",
-  "pattern": [
-    "a",
-    "a"
-  ],
-  "key": {
-    "a": {
-      "item": "minecraft:dark_oak_slab"
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "minecraft:dark_oak_planks"
+    },
+    {
+      "item": "minecraft:dark_oak_planks"
+    },
+    {
+      "item": "more_varients:mosaic_woodcutting_template"
     }
-  },
+  ],
   "result": {
     "item": "more_varients:dark_oak_mosaic",
-    "count": 1
+    "count": 2
   }
 }

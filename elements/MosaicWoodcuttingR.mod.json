@@ -3,13 +3,13 @@
   "_type": "recipe",
   "definition": {
     "recipeType": "Crafting",
-    "recipeRetstackSize": 4,
+    "recipeRetstackSize": 1,
     "group": "",
     "cookingBookCategory": "MISC",
     "xpReward": 0.0,
     "cookingTime": 200,
-    "craftingBookCategory": "BUILDING",
-    "recipeShapeless": false,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": true,
     "recipeSlots": [
       {
         "value": ""
@@ -21,28 +21,28 @@
         "value": ""
       },
       {
-        "value": "Blocks.STONE#3"
+        "value": ""
       },
       {
-        "value": "Blocks.STONE#3"
+        "value": "Items.PAPER"
       },
       {
         "value": ""
       },
       {
-        "value": "Blocks.STONE#3"
+        "value": ""
       },
       {
-        "value": "Blocks.STONE#3"
+        "value": "CUSTOM:MosaicWoodcuttingTemplate"
       },
       {
         "value": ""
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:DioriteBricks"
+      "value": "CUSTOM:MosaicWoodcuttingTemplate"
     },
-    "name": "diorite_brick_carving",
+    "name": "mosaic_woodcutting_r",
     "namespace": "mod"
   }
 }

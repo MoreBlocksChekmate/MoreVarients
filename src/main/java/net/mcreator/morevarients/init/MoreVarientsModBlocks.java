@@ -210,7 +210,6 @@ public class MoreVarientsModBlocks {
 	public static final RegistryObject<Block> MAGENTA_TERRACOTTA_STAIRS = REGISTRY.register("magenta_terracotta_stairs", () -> new MagentaTerracottaStairsBlock());
 	public static final RegistryObject<Block> PINK_TERRACOTTA_STAIRS = REGISTRY.register("pink_terracotta_stairs", () -> new PinkTerracottaStairsBlock());
 	public static final RegistryObject<Block> TERRACOTTA_STAIRS = REGISTRY.register("terracotta_stairs", () -> new TerracottaStairsBlock());
-	public static final RegistryObject<Block> THACTHED_STAIRS = REGISTRY.register("thacthed_stairs", () -> new ThacthedStairsBlock());
 	public static final RegistryObject<Block> SMOOTH_STONE_STAIRS = REGISTRY.register("smooth_stone_stairs", () -> new SmoothStoneStairsBlock());
 	public static final RegistryObject<Block> GRANITE_BRICK_STAIRS = REGISTRY.register("granite_brick_stairs", () -> new GraniteBrickStairsBlock());
 	public static final RegistryObject<Block> ANDESITE_BRICK_STAIRS = REGISTRY.register("andesite_brick_stairs", () -> new AndesiteBrickStairsBlock());
@@ -236,6 +235,7 @@ public class MoreVarientsModBlocks {
 	public static final RegistryObject<Block> SMOOTH_OAK_STAIRS = REGISTRY.register("smooth_oak_stairs", () -> new SmoothOakStairsBlock());
 	public static final RegistryObject<Block> SMOOTH_SPRUCE_SAIRS = REGISTRY.register("smooth_spruce_sairs", () -> new SmoothSpruceSairsBlock());
 	public static final RegistryObject<Block> SMOOTH_WARPED_STAIRS = REGISTRY.register("smooth_warped_stairs", () -> new SmoothWarpedStairsBlock());
+	public static final RegistryObject<Block> THACTHED_STAIRS = REGISTRY.register("thacthed_stairs", () -> new ThacthedStairsBlock());
 	public static final RegistryObject<Block> WHITE_CONCRETE_SLAB = REGISTRY.register("white_concrete_slab", () -> new WhiteConcreteSlabBlock());
 	public static final RegistryObject<Block> LIGHT_GRAY_CONCRETE_SLAB = REGISTRY.register("light_gray_concrete_slab", () -> new LightGrayConcreteSlabBlock());
 	public static final RegistryObject<Block> GRAY_CONCRETE_SLAB = REGISTRY.register("gray_concrete_slab", () -> new GrayConcreteSlabBlock());
@@ -258,7 +258,17 @@ public class MoreVarientsModBlocks {
 	public static final RegistryObject<Block> GRAY_TERRACOTTA_SALB = REGISTRY.register("gray_terracotta_salb", () -> new GrayTerracottaSalbBlock());
 	public static final RegistryObject<Block> BROWN_TERRACOTTA_SLAB = REGISTRY.register("brown_terracotta_slab", () -> new BrownTerracottaSlabBlock());
 	public static final RegistryObject<Block> BLACK_TERRACOTTA_SLAB = REGISTRY.register("black_terracotta_slab", () -> new BlackTerracottaSlabBlock());
-	public static final RegistryObject<Block> THATCHED_SLAB = REGISTRY.register("thatched_slab", () -> new ThatchedSlabBlock());
+	public static final RegistryObject<Block> RED_TERRACOTTA_SLAB = REGISTRY.register("red_terracotta_slab", () -> new RedTerracottaSlabBlock());
+	public static final RegistryObject<Block> ORANGE_TERRACOTTA_SLAB = REGISTRY.register("orange_terracotta_slab", () -> new OrangeTerracottaSlabBlock());
+	public static final RegistryObject<Block> YELLOW_TERRACOTTA_SLAB = REGISTRY.register("yellow_terracotta_slab", () -> new YellowTerracottaSlabBlock());
+	public static final RegistryObject<Block> LIME_TERRACOTTA_SLAB = REGISTRY.register("lime_terracotta_slab", () -> new LimeTerracottaSlabBlock());
+	public static final RegistryObject<Block> GREEN_TERRACOTTA_SLAB = REGISTRY.register("green_terracotta_slab", () -> new GreenTerracottaSlabBlock());
+	public static final RegistryObject<Block> CYAN_TERRACOTTA_SLAB = REGISTRY.register("cyan_terracotta_slab", () -> new CyanTerracottaSlabBlock());
+	public static final RegistryObject<Block> LIGHT_BLUE_TERRACOTTA_SLAB = REGISTRY.register("light_blue_terracotta_slab", () -> new LightBlueTerracottaSlabBlock());
+	public static final RegistryObject<Block> BLUE_TERRACOTTA_SLAB = REGISTRY.register("blue_terracotta_slab", () -> new BlueTerracottaSlabBlock());
+	public static final RegistryObject<Block> PURPLE_TERRACOTTA_SLAB = REGISTRY.register("purple_terracotta_slab", () -> new PurpleTerracottaSlabBlock());
+	public static final RegistryObject<Block> MAGENTA_TERRACOTTA_SLAB = REGISTRY.register("magenta_terracotta_slab", () -> new MagentaTerracottaSlabBlock());
+	public static final RegistryObject<Block> PINK_TERRACOTTA_SLAB = REGISTRY.register("pink_terracotta_slab", () -> new PinkTerracottaSlabBlock());
 	public static final RegistryObject<Block> GRANITE_BRICK_SLAB = REGISTRY.register("granite_brick_slab", () -> new GraniteBrickSlabBlock());
 	public static final RegistryObject<Block> DIORITE_BRICK_SLAB = REGISTRY.register("diorite_brick_slab", () -> new DioriteBrickSlabBlock());
 	public static final RegistryObject<Block> ANDESITE_BRICK_SLAB = REGISTRY.register("andesite_brick_slab", () -> new AndesiteBrickSlabBlock());
@@ -283,6 +293,7 @@ public class MoreVarientsModBlocks {
 	public static final RegistryObject<Block> SMOOTH_OAK_SLAB = REGISTRY.register("smooth_oak_slab", () -> new SmoothOakSlabBlock());
 	public static final RegistryObject<Block> SMOOTH_SPRUCE_SLAB = REGISTRY.register("smooth_spruce_slab", () -> new SmoothSpruceSlabBlock());
 	public static final RegistryObject<Block> SMOOTH_WARPED_SLAB = REGISTRY.register("smooth_warped_slab", () -> new SmoothWarpedSlabBlock());
+	public static final RegistryObject<Block> THATCHED_SLAB = REGISTRY.register("thatched_slab", () -> new ThatchedSlabBlock());
 	public static final RegistryObject<Block> CRACKED_POLISHED_GRANITE = REGISTRY.register("cracked_polished_granite", () -> new CrackedPolishedGraniteBlock());
 	public static final RegistryObject<Block> CRACKED_POLISHED_ANDESITE = REGISTRY.register("cracked_polished_andesite", () -> new CrackedPolishedAndesiteBlock());
 	public static final RegistryObject<Block> CRACKED_POLISHED_DIORITE = REGISTRY.register("cracked_polished_diorite", () -> new CrackedPolishedDioriteBlock());
@@ -329,15 +340,4 @@ public class MoreVarientsModBlocks {
 	public static final RegistryObject<Block> QUARTZ_BRICK_WALLS = REGISTRY.register("quartz_brick_walls", () -> new QuartzBrickWallsBlock());
 	public static final RegistryObject<Block> SMOOTH_QUARTZ_WALLS = REGISTRY.register("smooth_quartz_walls", () -> new SmoothQuartzWallsBlock());
 	public static final RegistryObject<Block> PILLARED_QUARTZ_WALL = REGISTRY.register("pillared_quartz_wall", () -> new PillaredQuartzWallBlock());
-	public static final RegistryObject<Block> RED_TERRACOTTA_SLAB = REGISTRY.register("red_terracotta_slab", () -> new RedTerracottaSlabBlock());
-	public static final RegistryObject<Block> ORANGE_TERRACOTTA_SLAB = REGISTRY.register("orange_terracotta_slab", () -> new OrangeTerracottaSlabBlock());
-	public static final RegistryObject<Block> YELLOW_TERRACOTTA_SLAB = REGISTRY.register("yellow_terracotta_slab", () -> new YellowTerracottaSlabBlock());
-	public static final RegistryObject<Block> LIME_TERRACOTTA_SLAB = REGISTRY.register("lime_terracotta_slab", () -> new LimeTerracottaSlabBlock());
-	public static final RegistryObject<Block> GREEN_TERRACOTTA_SLAB = REGISTRY.register("green_terracotta_slab", () -> new GreenTerracottaSlabBlock());
-	public static final RegistryObject<Block> CYAN_TERRACOTTA_SLAB = REGISTRY.register("cyan_terracotta_slab", () -> new CyanTerracottaSlabBlock());
-	public static final RegistryObject<Block> LIGHT_BLUE_TERRACOTTA_SLAB = REGISTRY.register("light_blue_terracotta_slab", () -> new LightBlueTerracottaSlabBlock());
-	public static final RegistryObject<Block> BLUE_TERRACOTTA_SLAB = REGISTRY.register("blue_terracotta_slab", () -> new BlueTerracottaSlabBlock());
-	public static final RegistryObject<Block> PURPLE_TERRACOTTA_SLAB = REGISTRY.register("purple_terracotta_slab", () -> new PurpleTerracottaSlabBlock());
-	public static final RegistryObject<Block> MAGENTA_TERRACOTTA_SLAB = REGISTRY.register("magenta_terracotta_slab", () -> new MagentaTerracottaSlabBlock());
-	public static final RegistryObject<Block> PINK_TERRACOTTA_SLAB = REGISTRY.register("pink_terracotta_slab", () -> new PinkTerracottaSlabBlock());
 }
