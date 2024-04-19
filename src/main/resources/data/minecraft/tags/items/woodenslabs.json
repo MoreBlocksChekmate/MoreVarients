@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "more_varients:spruce_mosaic_slab",
+    "more_varients:acacia_mosaic_slab",
+    "more_varients:birch_mosaic_slab",
+    "more_varients:cherry_mosaic_slab",
+    "more_varients:dark_oak_mosaic_slab",
+    "more_varients:jungle_mosaic_slab",
+    "more_varients:mangrove_mosaic_slab",
+    "more_varients:oak_mosaic_slab",
+    "more_varients:smooth_acacia_slab",
+    "more_varients:smooth_birch_slab",
+    "more_varients:smooth_cherry_slab",
+    "more_varients:smooth_dark_oak_slab",
+    "more_varients:smooth_jungle_slab",
+    "more_varients:smooth_mangrove_slab",
+    "more_varients:smooth_oak_slab",
+    "more_varients:smooth_spruce_slab",
+    "more_varients:crimson_mosaic_slab",
+    "more_varients:warped_mosaic_slab",
+    "more_varients:smooth_crimson_slab",
+    "more_varients:smooth_warped_slab"
+  ]
+}

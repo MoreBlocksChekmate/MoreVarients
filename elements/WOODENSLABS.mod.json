@@ -1,0 +1,76 @@
+{
+  "_fv": 57,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:SpruceMosaicSlab"
+      },
+      {
+        "value": "CUSTOM:AcaciaMosaicSlab"
+      },
+      {
+        "value": "CUSTOM:BirchMosaicSlab"
+      },
+      {
+        "value": "CUSTOM:CherryMosaicSlab"
+      },
+      {
+        "value": "CUSTOM:DarkOakMosaicSlab"
+      },
+      {
+        "value": "CUSTOM:JungleMosaicSlab"
+      },
+      {
+        "value": "CUSTOM:MangroveMosaicSlab"
+      },
+      {
+        "value": "CUSTOM:OakMosaicSlab"
+      },
+      {
+        "value": "CUSTOM:SmoothAcaciaSlab"
+      },
+      {
+        "value": "CUSTOM:SmoothBirchSlab"
+      },
+      {
+        "value": "CUSTOM:SmoothCherrySlab"
+      },
+      {
+        "value": "CUSTOM:SmoothDarkOakSlab"
+      },
+      {
+        "value": "CUSTOM:SmoothJungleSlab"
+      },
+      {
+        "value": "CUSTOM:SmoothMangroveSlab"
+      },
+      {
+        "value": "CUSTOM:SmoothOakSlab"
+      },
+      {
+        "value": "CUSTOM:SmoothSpruceSlab"
+      },
+      {
+        "value": "CUSTOM:CrimsonMosaicSlab"
+      },
+      {
+        "value": "CUSTOM:WarpedMosaicSlab"
+      },
+      {
+        "value": "CUSTOM:SmoothCrimsonSlab"
+      },
+      {
+        "value": "CUSTOM:SmoothWarpedSlab"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "damageTypes": [],
+    "name": "woodenslabs",
+    "namespace": "minecraft"
+  }
+}

@@ -5,7 +5,7 @@
     "up": "more_varients:block/warped_stem_top",
     "north": "more_varients:block/chippedwarpedstem",
     "east": "more_varients:block/chippedwarpedstem",
-    "south": "more_varients:block/chippedcrimsonstem",
+    "south": "more_varients:block/chippedwarpedstem",
     "west": "more_varients:block/chippedwarpedstem",
     "particle": "more_varients:block/warped_stem_top"
   },

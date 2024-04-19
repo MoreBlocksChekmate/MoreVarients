@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "more_varients:block/frost_magenta_wool",
+    "particle": "more_varients:block/frost_magenta_wool"
+  },
+  "render_type": "solid"
+}

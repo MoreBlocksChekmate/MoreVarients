@@ -12,7 +12,10 @@ import net.minecraft.world.level.block.Block;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.item.BlockItem;
 
+import net.mcreator.morevarients.item.SmoothWoodcuttingTemplateItem;
+import net.mcreator.morevarients.item.PillarWoodcuttingTempleteItem;
 import net.mcreator.morevarients.item.MosaicWoodcuttingTemplateItem;
+import net.mcreator.morevarients.item.FrostWeavingPatternItemItem;
 import net.mcreator.morevarients.item.ChippedWoodcuttingTemplateItem;
 import net.mcreator.morevarients.item.BrickStonecarvingTemplateItem;
 import net.mcreator.morevarients.MoreVarientsMod;
@@ -174,7 +177,33 @@ public class MoreVarientsModItems {
 	public static final RegistryObject<Item> SMOOTH_OAK_PLANKS = block(MoreVarientsModBlocks.SMOOTH_OAK_PLANKS);
 	public static final RegistryObject<Item> SMOOTH_SPRUCE_PLANKS = block(MoreVarientsModBlocks.SMOOTH_SPRUCE_PLANKS);
 	public static final RegistryObject<Item> SMOOTH_WARPED_PLANKS = block(MoreVarientsModBlocks.SMOOTH_WARPED_PLANKS);
+	public static final RegistryObject<Item> ACACIA_PILLARS = block(MoreVarientsModBlocks.ACACIA_PILLARS);
+	public static final RegistryObject<Item> BAMBOO_PILLARS = block(MoreVarientsModBlocks.BAMBOO_PILLARS);
+	public static final RegistryObject<Item> BIRCH_PILLARS = block(MoreVarientsModBlocks.BIRCH_PILLARS);
+	public static final RegistryObject<Item> CHERRY_PILLAR = block(MoreVarientsModBlocks.CHERRY_PILLAR);
+	public static final RegistryObject<Item> CRIMSON_PILLARS = block(MoreVarientsModBlocks.CRIMSON_PILLARS);
+	public static final RegistryObject<Item> DARK_OAK_PILLARS = block(MoreVarientsModBlocks.DARK_OAK_PILLARS);
+	public static final RegistryObject<Item> JUNGLE_PILLARS = block(MoreVarientsModBlocks.JUNGLE_PILLARS);
+	public static final RegistryObject<Item> MANGROVE_PILLARS = block(MoreVarientsModBlocks.MANGROVE_PILLARS);
 	public static final RegistryObject<Item> OAK_PILLARS = block(MoreVarientsModBlocks.OAK_PILLARS);
+	public static final RegistryObject<Item> SPRUCE_PILLARS = block(MoreVarientsModBlocks.SPRUCE_PILLARS);
+	public static final RegistryObject<Item> WARPED_PILLARS = block(MoreVarientsModBlocks.WARPED_PILLARS);
+	public static final RegistryObject<Item> FROST_WHITE_WOOL = block(MoreVarientsModBlocks.FROST_WHITE_WOOL);
+	public static final RegistryObject<Item> FROST_LIGHT_GRAY_WOOL = block(MoreVarientsModBlocks.FROST_LIGHT_GRAY_WOOL);
+	public static final RegistryObject<Item> FROST_GRAY_WOOL = block(MoreVarientsModBlocks.FROST_GRAY_WOOL);
+	public static final RegistryObject<Item> FROST_BLACK_WOOL = block(MoreVarientsModBlocks.FROST_BLACK_WOOL);
+	public static final RegistryObject<Item> FROST_BROWN_WOOL = block(MoreVarientsModBlocks.FROST_BROWN_WOOL);
+	public static final RegistryObject<Item> FROST_RED_WOOL = block(MoreVarientsModBlocks.FROST_RED_WOOL);
+	public static final RegistryObject<Item> FROST_ORANGE_WOOL = block(MoreVarientsModBlocks.FROST_ORANGE_WOOL);
+	public static final RegistryObject<Item> FROST_YELLOW_WOOL = block(MoreVarientsModBlocks.FROST_YELLOW_WOOL);
+	public static final RegistryObject<Item> FROST_LIME_WOOL = block(MoreVarientsModBlocks.FROST_LIME_WOOL);
+	public static final RegistryObject<Item> FROST_GREEN_WOOL = block(MoreVarientsModBlocks.FROST_GREEN_WOOL);
+	public static final RegistryObject<Item> FROST_CYAN_WOOL = block(MoreVarientsModBlocks.FROST_CYAN_WOOL);
+	public static final RegistryObject<Item> FROST_LIGHT_BLUE_WOOL = block(MoreVarientsModBlocks.FROST_LIGHT_BLUE_WOOL);
+	public static final RegistryObject<Item> FROST_BLUE_WOOL = block(MoreVarientsModBlocks.FROST_BLUE_WOOL);
+	public static final RegistryObject<Item> FROST_PURPLE_WOOL = block(MoreVarientsModBlocks.FROST_PURPLE_WOOL);
+	public static final RegistryObject<Item> FROST_MAGENTA_WOOL = block(MoreVarientsModBlocks.FROST_MAGENTA_WOOL);
+	public static final RegistryObject<Item> FROST_PINK_WOOL = block(MoreVarientsModBlocks.FROST_PINK_WOOL);
 	public static final RegistryObject<Item> GRANITE_BRICK_WALL = block(MoreVarientsModBlocks.GRANITE_BRICK_WALL);
 	public static final RegistryObject<Item> DIORITE_BRICK_WALL = block(MoreVarientsModBlocks.DIORITE_BRICK_WALL);
 	public static final RegistryObject<Item> ANDESITE_BRICK_WALL = block(MoreVarientsModBlocks.ANDESITE_BRICK_WALL);
@@ -185,6 +214,9 @@ public class MoreVarientsModItems {
 	public static final RegistryObject<Item> BRICK_STONECARVING_TEMPLATE = REGISTRY.register("brick_stonecarving_template", () -> new BrickStonecarvingTemplateItem());
 	public static final RegistryObject<Item> MOSAIC_WOODCUTTING_TEMPLATE = REGISTRY.register("mosaic_woodcutting_template", () -> new MosaicWoodcuttingTemplateItem());
 	public static final RegistryObject<Item> CHIPPED_WOODCUTTING_TEMPLATE = REGISTRY.register("chipped_woodcutting_template", () -> new ChippedWoodcuttingTemplateItem());
+	public static final RegistryObject<Item> PILLAR_WOODCUTTING_TEMPLETE = REGISTRY.register("pillar_woodcutting_templete", () -> new PillarWoodcuttingTempleteItem());
+	public static final RegistryObject<Item> SMOOTH_WOODCUTTING_TEMPLATE = REGISTRY.register("smooth_woodcutting_template", () -> new SmoothWoodcuttingTemplateItem());
+	public static final RegistryObject<Item> FROST_WEAVING_PATTERN_ITEM = REGISTRY.register("frost_weaving_pattern_item", () -> new FrostWeavingPatternItemItem());
 
 	private static RegistryObject<Item> block(RegistryObject<Block> block) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties()));
