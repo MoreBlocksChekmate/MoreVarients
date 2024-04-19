@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "more_varients:block/birch_pillar_top",
+    "up": "more_varients:block/birch_pillar_top",
+    "north": "more_varients:block/birch_pillar",
+    "east": "more_varients:block/birch_pillar",
+    "south": "more_varients:block/birch_pillar",
+    "west": "more_varients:block/birch_pillar",
+    "particle": "more_varients:block/birch_pillar_top"
+  },
+  "render_type": "solid"
+}

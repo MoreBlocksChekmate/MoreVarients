@@ -142,7 +142,7 @@ public class MoreVarientsModTabs {
 
 					.build());
 	public static final RegistryObject<CreativeModeTab> MORE_BLOCKS = REGISTRY.register("more_blocks",
-			() -> CreativeModeTab.builder().title(Component.translatable("item_group.more_varients.more_blocks")).icon(() -> new ItemStack(MoreVarientsModBlocks.CHIPPED_OAK_LOG.get())).displayItems((parameters, tabData) -> {
+			() -> CreativeModeTab.builder().title(Component.translatable("item_group.more_varients.more_blocks")).icon(() -> new ItemStack(MoreVarientsModBlocks.CHIPPED_CHERRY_LOG.get())).displayItems((parameters, tabData) -> {
 				tabData.accept(MoreVarientsModBlocks.CRACKED_POLISHED_GRANITE.get().asItem());
 				tabData.accept(MoreVarientsModBlocks.CRACKED_POLISHED_ANDESITE.get().asItem());
 				tabData.accept(MoreVarientsModBlocks.CRACKED_POLISHED_DIORITE.get().asItem());
@@ -181,7 +181,33 @@ public class MoreVarientsModTabs {
 				tabData.accept(MoreVarientsModBlocks.SMOOTH_OAK_PLANKS.get().asItem());
 				tabData.accept(MoreVarientsModBlocks.SMOOTH_SPRUCE_PLANKS.get().asItem());
 				tabData.accept(MoreVarientsModBlocks.SMOOTH_WARPED_PLANKS.get().asItem());
+				tabData.accept(MoreVarientsModBlocks.ACACIA_PILLARS.get().asItem());
+				tabData.accept(MoreVarientsModBlocks.BAMBOO_PILLARS.get().asItem());
+				tabData.accept(MoreVarientsModBlocks.BIRCH_PILLARS.get().asItem());
+				tabData.accept(MoreVarientsModBlocks.CHERRY_PILLAR.get().asItem());
+				tabData.accept(MoreVarientsModBlocks.CRIMSON_PILLARS.get().asItem());
+				tabData.accept(MoreVarientsModBlocks.DARK_OAK_PILLARS.get().asItem());
+				tabData.accept(MoreVarientsModBlocks.JUNGLE_PILLARS.get().asItem());
+				tabData.accept(MoreVarientsModBlocks.MANGROVE_PILLARS.get().asItem());
 				tabData.accept(MoreVarientsModBlocks.OAK_PILLARS.get().asItem());
+				tabData.accept(MoreVarientsModBlocks.SPRUCE_PILLARS.get().asItem());
+				tabData.accept(MoreVarientsModBlocks.WARPED_PILLARS.get().asItem());
+				tabData.accept(MoreVarientsModBlocks.FROST_WHITE_WOOL.get().asItem());
+				tabData.accept(MoreVarientsModBlocks.FROST_LIGHT_GRAY_WOOL.get().asItem());
+				tabData.accept(MoreVarientsModBlocks.FROST_GRAY_WOOL.get().asItem());
+				tabData.accept(MoreVarientsModBlocks.FROST_BLACK_WOOL.get().asItem());
+				tabData.accept(MoreVarientsModBlocks.FROST_BROWN_WOOL.get().asItem());
+				tabData.accept(MoreVarientsModBlocks.FROST_RED_WOOL.get().asItem());
+				tabData.accept(MoreVarientsModBlocks.FROST_ORANGE_WOOL.get().asItem());
+				tabData.accept(MoreVarientsModBlocks.FROST_YELLOW_WOOL.get().asItem());
+				tabData.accept(MoreVarientsModBlocks.FROST_LIME_WOOL.get().asItem());
+				tabData.accept(MoreVarientsModBlocks.FROST_GREEN_WOOL.get().asItem());
+				tabData.accept(MoreVarientsModBlocks.FROST_CYAN_WOOL.get().asItem());
+				tabData.accept(MoreVarientsModBlocks.FROST_LIGHT_BLUE_WOOL.get().asItem());
+				tabData.accept(MoreVarientsModBlocks.FROST_BLUE_WOOL.get().asItem());
+				tabData.accept(MoreVarientsModBlocks.FROST_PURPLE_WOOL.get().asItem());
+				tabData.accept(MoreVarientsModBlocks.FROST_MAGENTA_WOOL.get().asItem());
+				tabData.accept(MoreVarientsModBlocks.FROST_PINK_WOOL.get().asItem());
 			}).withSearchBar().build());
 	public static final RegistryObject<CreativeModeTab> MORE_WALLS = REGISTRY.register("more_walls",
 			() -> CreativeModeTab.builder().title(Component.translatable("item_group.more_varients.more_walls")).icon(() -> new ItemStack(MoreVarientsModBlocks.GRANITE_BRICK_WALL.get())).displayItems((parameters, tabData) -> {
@@ -196,9 +222,12 @@ public class MoreVarientsModTabs {
 
 					.build());
 	public static final RegistryObject<CreativeModeTab> MORE_ITEMS = REGISTRY.register("more_items",
-			() -> CreativeModeTab.builder().title(Component.translatable("item_group.more_varients.more_items")).icon(() -> new ItemStack(MoreVarientsModItems.BRICK_STONECARVING_TEMPLATE.get())).displayItems((parameters, tabData) -> {
+			() -> CreativeModeTab.builder().title(Component.translatable("item_group.more_varients.more_items")).icon(() -> new ItemStack(MoreVarientsModItems.CHIPPED_WOODCUTTING_TEMPLATE.get())).displayItems((parameters, tabData) -> {
 				tabData.accept(MoreVarientsModItems.BRICK_STONECARVING_TEMPLATE.get());
 				tabData.accept(MoreVarientsModItems.MOSAIC_WOODCUTTING_TEMPLATE.get());
 				tabData.accept(MoreVarientsModItems.CHIPPED_WOODCUTTING_TEMPLATE.get());
+				tabData.accept(MoreVarientsModItems.PILLAR_WOODCUTTING_TEMPLETE.get());
+				tabData.accept(MoreVarientsModItems.SMOOTH_WOODCUTTING_TEMPLATE.get());
+				tabData.accept(MoreVarientsModItems.FROST_WEAVING_PATTERN_ITEM.get());
 			}).withSearchBar().build());
 }

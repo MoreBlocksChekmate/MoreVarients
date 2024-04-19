@@ -59,6 +59,17 @@
     "more_varients:mangrove_mosaic",
     "more_varients:oak_mosaic",
     "more_varients:spruce_mosaic",
-    "more_varients:warped_mosaic"
+    "more_varients:warped_mosaic",
+    "more_varients:acacia_pillars",
+    "more_varients:bamboo_pillars",
+    "more_varients:birch_pillars",
+    "more_varients:cherry_pillar",
+    "more_varients:crimson_pillars",
+    "more_varients:dark_oak_pillars",
+    "more_varients:jungle_pillars",
+    "more_varients:mangrove_pillars",
+    "more_varients:oak_pillars",
+    "more_varients:spruce_pillars",
+    "more_varients:warped_pillars"
   ]
 }

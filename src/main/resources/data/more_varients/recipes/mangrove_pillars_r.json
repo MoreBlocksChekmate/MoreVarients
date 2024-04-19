@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "more_varients:pillar_woodcutting_templete"
+    },
+    {
+      "item": "minecraft:mangrove_planks"
+    }
+  ],
+  "result": {
+    "item": "more_varients:mangrove_pillars",
+    "count": 1
+  }
+}

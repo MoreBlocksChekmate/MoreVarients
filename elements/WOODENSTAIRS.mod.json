@@ -1,0 +1,76 @@
+{
+  "_fv": 57,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:SpruceMosaicStairs"
+      },
+      {
+        "value": "CUSTOM:AcaciaMosaicStairs"
+      },
+      {
+        "value": "CUSTOM:BirchMosaicStairs"
+      },
+      {
+        "value": "CUSTOM:CherryMosaicStairs"
+      },
+      {
+        "value": "CUSTOM:CrimsonMosaicStairs"
+      },
+      {
+        "value": "CUSTOM:DarkOakStairs"
+      },
+      {
+        "value": "CUSTOM:JungleSatirs"
+      },
+      {
+        "value": "CUSTOM:MangroveStairs"
+      },
+      {
+        "value": "CUSTOM:OakStairs"
+      },
+      {
+        "value": "CUSTOM:WarpedStairs"
+      },
+      {
+        "value": "CUSTOM:SmoothAcaciaStairs"
+      },
+      {
+        "value": "CUSTOM:SmoothBirchStairs"
+      },
+      {
+        "value": "CUSTOM:SmoothCherryStairs"
+      },
+      {
+        "value": "CUSTOM:SmoothCrimsonStairs"
+      },
+      {
+        "value": "CUSTOM:SmoothDarkOakStairs"
+      },
+      {
+        "value": "CUSTOM:SmoothJungleStairs"
+      },
+      {
+        "value": "CUSTOM:SmoothMangroveStairs"
+      },
+      {
+        "value": "CUSTOM:SmoothOakStairs"
+      },
+      {
+        "value": "CUSTOM:SmoothSpruceSairs"
+      },
+      {
+        "value": "CUSTOM:SmoothWarpedStairs"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "damageTypes": [],
+    "name": "woodenstairs",
+    "namespace": "minecraft"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "more_varients:block/dark_oak_pillar_top",
+    "up": "more_varients:block/dark_oak_pillar_top",
+    "north": "more_varients:block/dark_oak_pillar",
+    "east": "more_varients:block/dark_oak_pillar",
+    "south": "more_varients:block/dark_oak_pillar",
+    "west": "more_varients:block/dark_oak_pillar",
+    "particle": "more_varients:block/dark_oak_pillar_top"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "more_varients:pillar_woodcutting_templete"
+    },
+    {
+      "item": "minecraft:cherry_planks"
+    }
+  ],
+  "result": {
+    "item": "more_varients:cherry_pillar",
+    "count": 1
+  }
+}
