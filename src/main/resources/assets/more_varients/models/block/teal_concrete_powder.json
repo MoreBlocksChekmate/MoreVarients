@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "more_varients:block/teal_concrete_powder",
+    "particle": "more_varients:block/teal_concrete_powder"
+  },
+  "render_type": "solid"
+}
