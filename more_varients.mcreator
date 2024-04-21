@@ -1781,7 +1781,7 @@
           "src/main/resources/assets/more_varients/models/block/granite_brick_wall_inventory.json"
         ]
       },
-      "path": "~/Walls"
+      "path": "~/Other Block/Walls"
     },
     {
       "name": "MoreWalls",
@@ -1793,7 +1793,7 @@
       "metadata": {
         "files": []
       },
-      "path": "~/Walls"
+      "path": "~/Other Block/Walls"
     },
     {
       "name": "AndesiteBrickWall",
@@ -1813,7 +1813,7 @@
           "src/main/java/net/mcreator/morevarients/block/AndesiteBrickWallBlock.java"
         ]
       },
-      "path": "~/Walls"
+      "path": "~/Other Block/Walls"
     },
     {
       "name": "DioriteBrickWall",
@@ -1833,7 +1833,7 @@
           "src/main/resources/assets/more_varients/blockstates/diorite_brick_wall.json"
         ]
       },
-      "path": "~/Walls"
+      "path": "~/Other Block/Walls"
     },
     {
       "name": "Walls",
@@ -4125,7 +4125,7 @@
           "src/main/resources/assets/more_varients/models/block/quartz_walls_post.json"
         ]
       },
-      "path": "~/Walls"
+      "path": "~/Other Block/Walls"
     },
     {
       "name": "QuartzBrickWalls",
@@ -4145,7 +4145,7 @@
           "src/main/resources/assets/more_varients/models/block/quartz_brick_walls_side_tall.json"
         ]
       },
-      "path": "~/Walls"
+      "path": "~/Other Block/Walls"
     },
     {
       "name": "SmoothQuartzWalls",
@@ -4165,7 +4165,7 @@
           "src/main/resources/assets/more_varients/models/item/smooth_quartz_walls.json"
         ]
       },
-      "path": "~/Walls"
+      "path": "~/Other Block/Walls"
     },
     {
       "name": "PillaredQuartzWall",
@@ -4185,7 +4185,7 @@
           "src/main/resources/assets/more_varients/models/block/pillared_quartz_wall.json"
         ]
       },
-      "path": "~/Walls"
+      "path": "~/Other Block/Walls"
     },
     {
       "name": "GraniteWall1",
@@ -5478,20 +5478,6 @@
       "path": "~/Misc"
     },
     {
-      "name": "LOGS",
-      "type": "tag",
-      "sortid": 366,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "logs",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/minecraft/tags/items/logs.json"
-        ]
-      },
-      "path": "~/Misc"
-    },
-    {
       "name": "AcaciaPillars",
       "type": "block",
       "sortid": 156,
@@ -6271,6 +6257,299 @@
         ]
       },
       "path": "~/Recipe/blocks/Frost"
+    },
+    {
+      "name": "FrostWoolGray",
+      "type": "recipe",
+      "sortid": 388,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "frost_wool_gray",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/more_varients/recipes/frost_wool_gray.json"
+        ]
+      },
+      "path": "~/Recipe/blocks/Frost"
+    },
+    {
+      "name": "FrostWoolBlack",
+      "type": "recipe",
+      "sortid": 389,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "frost_wool_black",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/more_varients/recipes/frost_wool_black.json"
+        ]
+      },
+      "path": "~/Recipe/blocks/Frost"
+    },
+    {
+      "name": "FrostWoolBrown",
+      "type": "recipe",
+      "sortid": 390,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "frost_wool_brown",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/more_varients/recipes/frost_wool_brown.json"
+        ]
+      },
+      "path": "~/Recipe/blocks/Frost"
+    },
+    {
+      "name": "FrostWoolRed",
+      "type": "recipe",
+      "sortid": 391,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "frost_wool_red",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/more_varients/recipes/frost_wool_red.json"
+        ]
+      },
+      "path": "~/Recipe/blocks/Frost"
+    },
+    {
+      "name": "FrostWoolOrange",
+      "type": "recipe",
+      "sortid": 392,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "frost_wool_orange",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/more_varients/recipes/frost_wool_orange.json"
+        ]
+      },
+      "path": "~/Recipe/blocks/Frost"
+    },
+    {
+      "name": "FrostWoolYellow",
+      "type": "recipe",
+      "sortid": 393,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "frost_wool_yellow",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/more_varients/recipes/frost_wool_yellow.json"
+        ]
+      },
+      "path": "~/Recipe/blocks/Frost"
+    },
+    {
+      "name": "FrostWoolLime",
+      "type": "recipe",
+      "sortid": 394,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "frost_wool_lime",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/more_varients/recipes/frost_wool_lime.json"
+        ]
+      },
+      "path": "~/Recipe/blocks/Frost"
+    },
+    {
+      "name": "FrostWoolGreen",
+      "type": "recipe",
+      "sortid": 395,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "frost_wool_green",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/more_varients/recipes/frost_wool_green.json"
+        ]
+      },
+      "path": "~/Recipe/blocks/Frost"
+    },
+    {
+      "name": "FrostWoolLightblue",
+      "type": "recipe",
+      "sortid": 396,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "frost_wool_lightblue",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/more_varients/recipes/frost_wool_lightblue.json"
+        ]
+      },
+      "path": "~/Recipe/blocks/Frost"
+    },
+    {
+      "name": "FrostWoolCyan",
+      "type": "recipe",
+      "sortid": 397,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "frost_wool_cyan",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/more_varients/recipes/frost_wool_cyan.json"
+        ]
+      },
+      "path": "~/Recipe/blocks/Frost"
+    },
+    {
+      "name": "FrostWoolBlue",
+      "type": "recipe",
+      "sortid": 398,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "frost_wool_blue",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/more_varients/recipes/frost_wool_blue.json"
+        ]
+      },
+      "path": "~/Recipe/blocks/Frost"
+    },
+    {
+      "name": "FrostWoolMagenta",
+      "type": "recipe",
+      "sortid": 399,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "frost_wool_magenta",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/more_varients/recipes/frost_wool_magenta.json"
+        ]
+      },
+      "path": "~/Recipe/blocks/Frost"
+    },
+    {
+      "name": "FrostWoolPurple",
+      "type": "recipe",
+      "sortid": 400,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "frost_wool_purple",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/more_varients/recipes/frost_wool_purple.json"
+        ]
+      },
+      "path": "~/Recipe/blocks/Frost"
+    },
+    {
+      "name": "FrostWoolPink",
+      "type": "recipe",
+      "sortid": 401,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "frost_wool_pink",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/more_varients/recipes/frost_wool_pink.json"
+        ]
+      },
+      "path": "~/Recipe/blocks/Frost"
+    },
+    {
+      "name": "TealConcretePowder",
+      "type": "block",
+      "sortid": 402,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "teal_concrete_powder",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/more_varients/blockstates/teal_concrete_powder.json",
+          "src/main/resources/assets/more_varients/models/block/teal_concrete_powder.json",
+          "src/main/resources/assets/more_varients/models/item/teal_concrete_powder.json",
+          "src/main/java/net/mcreator/morevarients/block/TealConcretePowderBlock.java"
+        ]
+      },
+      "path": "~/Blocks/Teals"
+    },
+    {
+      "name": "TealConcrete",
+      "type": "block",
+      "sortid": 403,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "teal_concrete",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/more_varients/models/block/teal_concrete.json",
+          "src/main/java/net/mcreator/morevarients/block/TealConcreteBlock.java",
+          "src/main/resources/assets/more_varients/blockstates/teal_concrete.json",
+          "src/main/resources/assets/more_varients/models/item/teal_concrete.json"
+        ]
+      },
+      "path": "~/Blocks/Teals"
+    },
+    {
+      "name": "TealConcretePowderUpdateTick",
+      "type": "procedure",
+      "sortid": 404,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "teal_concrete_powder_update_tick",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/morevarients/procedures/TealConcretePowderUpdateTickProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Blocks/Teals"
+    },
+    {
+      "name": "TealWool",
+      "type": "block",
+      "sortid": 405,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "teal_wool",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/more_varients/models/block/teal_wool.json",
+          "src/main/resources/assets/more_varients/models/item/teal_wool.json",
+          "src/main/java/net/mcreator/morevarients/block/TealWoolBlock.java",
+          "src/main/resources/assets/more_varients/blockstates/teal_wool.json"
+        ]
+      },
+      "path": "~/Blocks/Teals"
+    },
+    {
+      "name": "CarveYourWayOut",
+      "type": "achievement",
+      "sortid": 407,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "carve_your_way_out",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/more_varients/advancements/carve_your_way_out.json"
+        ]
+      },
+      "path": "~/Advancements"
     }
   ],
   "variable_elements": [
@@ -6381,17 +6660,18 @@
       "block.more_varients.magenta_terracotta_stairs": "Magenta Terracotta Stairs",
       "block.more_varients.acacia_mosaic_stairs": "Acacia Mosaic Stairs",
       "block.more_varients.dark_oak_mosaic_slab": "Dark Oak Mosaic Slab",
-      "block.more_varients.brown_concrete_slab": "Brown Concrete Slab",
       "block.more_varients.light_blue_terracotta_slab": "Light Blue Terracotta Slab",
+      "block.more_varients.brown_concrete_slab": "Brown Concrete Slab",
       "block.more_varients.spruce_pillars": "Spruce Pillars",
-      "block.more_varients.smooth_spruce_slab": "Smooth Spruce Slab",
       "block.more_varients.pink_terracotta_slab": "Pink Terracotta Slab",
+      "block.more_varients.smooth_spruce_slab": "Smooth Spruce Slab",
       "block.more_varients.smooth_jungle_slab": "Smooth Jungle Slab",
       "block.more_varients.light_gray_terracotta_slab": "Light Gray Terracotta Slab",
       "block.more_varients.warped_pillars": "Warped Pillars",
       "block.more_varients.green_concrete_stairs": "Green Concrete Stairs",
       "block.more_varients.chipped_dark_oak_log": "Chipped Dark Oak Log",
       "block.more_varients.frost_green_wool": "Frost Green Wool",
+      "advancements.carve_your_way_out.descr": "Use Shears to carve logs",
       "block.more_varients.frost_orange_wool": "Frost Orange Wool",
       "block.more_varients.smooth_jungle_planks": "Smooth Jungle Planks",
       "advancements.a_world_of_colors.title": "A World Of Colors",
@@ -6419,10 +6699,12 @@
       "block.more_varients.diorite_brick_stairs": "Diorite Brick Stairs",
       "block.more_varients.crimson_pillars": "Crimson Pillars",
       "block.more_varients.birch_mosaic": "Birch Mosaic",
+      "advancements.carve_your_way_out.title": "Carve Your Way Out",
       "block.more_varients.granite_brick_stairs": "Granite Brick Stairs",
       "advancements.a_true_carver.title": "A True Carver",
       "item_group.more_varients.more_variant_stairs": "More Stairs",
       "block.more_varients.cherry_pillar": "Chery Pillars",
+      "block.more_varients.teal_concrete": "Teal Concrete Powder",
       "block.more_varients.terracotta_stairs": "Terracotta Stairs",
       "block.more_varients.cyan_terracotta_stairs": "Cyan Terracotta Stairs",
       "block.more_varients.pink_terracotta_stairs": "Pink Terracotta Stairs",
@@ -6435,6 +6717,7 @@
       "block.more_varients.white_concrete_stairs": "White Concrete Stairs",
       "block.more_varients.smooth_warped_planks": "Smooth Warped Planks",
       "block.more_varients.birch_mosaic_slab": "Spruce Mosaic Slab",
+      "block.more_varients.teal_concrete_powder": "Teal Concrete Powder",
       "advancements.a_true_carver.descr": "Carver A Log Into Chipped Log",
       "block.more_varients.oak_mosaic_stairs": "Oak Mosaic Stairs",
       "block.more_varients.white_terracotta_stairs": "White Terracotta Stairs",
@@ -6475,6 +6758,7 @@
       "block.more_varients.birch_mosaic_stairs": "Birch Mosaic Stairs",
       "block.more_varients.dark_oak_mosaic_stairs": "Dark Oak Mosaic Stairs",
       "item_group.more_varients.more_slabs": "More Slabs",
+      "block.more_varients.teal_wool": "Teal Wool",
       "block.more_varients.blue_terracotta_stairs": "Blue Terracotta Stairs",
       "block.more_varients.light_gray_terracotta_stairs": "Light Gray Terracotta Stairs",
       "block.more_varients.white_terracotta_slab": "White Terracotta Slab",
@@ -6655,6 +6939,10 @@
           {
             "name": "Frost",
             "children": []
+          },
+          {
+            "name": "Teals",
+            "children": []
           }
         ]
       },
@@ -6667,8 +6955,13 @@
         "children": []
       },
       {
-        "name": "Walls",
-        "children": []
+        "name": "Other Block",
+        "children": [
+          {
+            "name": "Walls",
+            "children": []
+          }
+        ]
       },
       {
         "name": "Items",
@@ -6679,7 +6972,7 @@
   "workspaceSettings": {
     "modid": "more_varients",
     "modName": "More Varients",
-    "version": "1.2.0",
+    "version": "1.3.0",
     "author": "ChekMate80, MCreator",
     "websiteURL": "https://mcreator.net",
     "license": "All Rights Reserved",

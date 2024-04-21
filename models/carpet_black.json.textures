@@ -1,7 +1,9 @@
 {
   "mappings": {
     "default": {
-      "map": {},
+      "map": {
+        "all": "frost_black_wool"
+      },
       "name": "default"
     }
   }

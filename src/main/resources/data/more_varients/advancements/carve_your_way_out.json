@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "more_varients:chipped_cherry_log"
+    },
+    "title": {
+      "translate": "advancements.carve_your_way_out.title"
+    },
+    "description": {
+      "translate": "advancements.carve_your_way_out.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "carve_your_way_out": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "minecraft:story/smelt_iron"
+}

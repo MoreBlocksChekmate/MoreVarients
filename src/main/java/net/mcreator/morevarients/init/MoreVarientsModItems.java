@@ -217,6 +217,9 @@ public class MoreVarientsModItems {
 	public static final RegistryObject<Item> PILLAR_WOODCUTTING_TEMPLETE = REGISTRY.register("pillar_woodcutting_templete", () -> new PillarWoodcuttingTempleteItem());
 	public static final RegistryObject<Item> SMOOTH_WOODCUTTING_TEMPLATE = REGISTRY.register("smooth_woodcutting_template", () -> new SmoothWoodcuttingTemplateItem());
 	public static final RegistryObject<Item> FROST_WEAVING_PATTERN_ITEM = REGISTRY.register("frost_weaving_pattern_item", () -> new FrostWeavingPatternItemItem());
+	public static final RegistryObject<Item> TEAL_CONCRETE_POWDER = block(MoreVarientsModBlocks.TEAL_CONCRETE_POWDER);
+	public static final RegistryObject<Item> TEAL_CONCRETE = block(MoreVarientsModBlocks.TEAL_CONCRETE);
+	public static final RegistryObject<Item> TEAL_WOOL = block(MoreVarientsModBlocks.TEAL_WOOL);
 
 	private static RegistryObject<Item> block(RegistryObject<Block> block) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties()));
