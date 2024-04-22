@@ -208,9 +208,6 @@ public class MoreVarientsModTabs {
 				tabData.accept(MoreVarientsModBlocks.FROST_PURPLE_WOOL.get().asItem());
 				tabData.accept(MoreVarientsModBlocks.FROST_MAGENTA_WOOL.get().asItem());
 				tabData.accept(MoreVarientsModBlocks.FROST_PINK_WOOL.get().asItem());
-				tabData.accept(MoreVarientsModBlocks.TEAL_CONCRETE_POWDER.get().asItem());
-				tabData.accept(MoreVarientsModBlocks.TEAL_CONCRETE.get().asItem());
-				tabData.accept(MoreVarientsModBlocks.TEAL_WOOL.get().asItem());
 			}).withSearchBar().build());
 	public static final RegistryObject<CreativeModeTab> MORE_WALLS = REGISTRY.register("more_walls",
 			() -> CreativeModeTab.builder().title(Component.translatable("item_group.more_varients.more_walls")).icon(() -> new ItemStack(MoreVarientsModBlocks.GRANITE_BRICK_WALL.get())).displayItems((parameters, tabData) -> {
