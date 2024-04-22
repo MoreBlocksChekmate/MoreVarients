@@ -26,9 +26,6 @@ import net.mcreator.morevarients.block.ThatchedSlabBlock;
 import net.mcreator.morevarients.block.ThacthedStairsBlock;
 import net.mcreator.morevarients.block.TerracottaStairsBlock;
 import net.mcreator.morevarients.block.TerracottaSlabBlock;
-import net.mcreator.morevarients.block.TealWoolBlock;
-import net.mcreator.morevarients.block.TealConcretePowderBlock;
-import net.mcreator.morevarients.block.TealConcreteBlock;
 import net.mcreator.morevarients.block.SprucePillarsBlock;
 import net.mcreator.morevarients.block.SpruceMosaicStairsBlock;
 import net.mcreator.morevarients.block.SpruceMosaicSlabBlock;
@@ -395,7 +392,4 @@ public class MoreVarientsModBlocks {
 	public static final RegistryObject<Block> QUARTZ_BRICK_WALLS = REGISTRY.register("quartz_brick_walls", () -> new QuartzBrickWallsBlock());
 	public static final RegistryObject<Block> SMOOTH_QUARTZ_WALLS = REGISTRY.register("smooth_quartz_walls", () -> new SmoothQuartzWallsBlock());
 	public static final RegistryObject<Block> PILLARED_QUARTZ_WALL = REGISTRY.register("pillared_quartz_wall", () -> new PillaredQuartzWallBlock());
-	public static final RegistryObject<Block> TEAL_CONCRETE_POWDER = REGISTRY.register("teal_concrete_powder", () -> new TealConcretePowderBlock());
-	public static final RegistryObject<Block> TEAL_CONCRETE = REGISTRY.register("teal_concrete", () -> new TealConcreteBlock());
-	public static final RegistryObject<Block> TEAL_WOOL = REGISTRY.register("teal_wool", () -> new TealWoolBlock());
 }

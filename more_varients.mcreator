@@ -4899,44 +4899,6 @@
       "path": "~/Misc"
     },
     {
-      "name": "AWorldOfColors",
-      "type": "achievement",
-      "sortid": 347,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "a_world_of_colors",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/more_varients/advancements/a_world_of_colors.json"
-        ]
-      },
-      "path": "~/Advancements"
-    },
-    {
-      "name": "Color",
-      "type": "procedure",
-      "sortid": 348,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "color",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/morevarients/procedures/ColorProcedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "itemstack",
-            "type": "itemstack"
-          }
-        ]
-      },
-      "path": "~/Misc"
-    },
-    {
       "name": "COLORS",
       "type": "tag",
       "sortid": 349,
@@ -6455,89 +6417,6 @@
       "path": "~/Recipe/blocks/Frost"
     },
     {
-      "name": "TealConcretePowder",
-      "type": "block",
-      "sortid": 402,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "teal_concrete_powder",
-      "metadata": {
-        "files": [
-          "src/main/resources/assets/more_varients/blockstates/teal_concrete_powder.json",
-          "src/main/resources/assets/more_varients/models/block/teal_concrete_powder.json",
-          "src/main/resources/assets/more_varients/models/item/teal_concrete_powder.json",
-          "src/main/java/net/mcreator/morevarients/block/TealConcretePowderBlock.java"
-        ]
-      },
-      "path": "~/Blocks/Teals"
-    },
-    {
-      "name": "TealConcrete",
-      "type": "block",
-      "sortid": 403,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "teal_concrete",
-      "metadata": {
-        "files": [
-          "src/main/resources/assets/more_varients/models/block/teal_concrete.json",
-          "src/main/java/net/mcreator/morevarients/block/TealConcreteBlock.java",
-          "src/main/resources/assets/more_varients/blockstates/teal_concrete.json",
-          "src/main/resources/assets/more_varients/models/item/teal_concrete.json"
-        ]
-      },
-      "path": "~/Blocks/Teals"
-    },
-    {
-      "name": "TealConcretePowderUpdateTick",
-      "type": "procedure",
-      "sortid": 404,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "teal_concrete_powder_update_tick",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/morevarients/procedures/TealConcretePowderUpdateTickProcedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Blocks/Teals"
-    },
-    {
-      "name": "TealWool",
-      "type": "block",
-      "sortid": 405,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "teal_wool",
-      "metadata": {
-        "files": [
-          "src/main/resources/assets/more_varients/models/block/teal_wool.json",
-          "src/main/resources/assets/more_varients/models/item/teal_wool.json",
-          "src/main/java/net/mcreator/morevarients/block/TealWoolBlock.java",
-          "src/main/resources/assets/more_varients/blockstates/teal_wool.json"
-        ]
-      },
-      "path": "~/Blocks/Teals"
-    },
-    {
       "name": "CarveYourWayOut",
       "type": "achievement",
       "sortid": 407,
@@ -6674,7 +6553,6 @@
       "advancements.carve_your_way_out.descr": "Use Shears to carve logs",
       "block.more_varients.frost_orange_wool": "Frost Orange Wool",
       "block.more_varients.smooth_jungle_planks": "Smooth Jungle Planks",
-      "advancements.a_world_of_colors.title": "A World Of Colors",
       "block.more_varients.purple_concrete_slab": "Purple Concrete Slab",
       "block.more_varients.purple_terracotta_stairs": "Purple Terracotta Stairs",
       "item.more_varients.smooth_woodcutting_template": "Smooth Woodcutting Template",
@@ -6704,7 +6582,6 @@
       "advancements.a_true_carver.title": "A True Carver",
       "item_group.more_varients.more_variant_stairs": "More Stairs",
       "block.more_varients.cherry_pillar": "Chery Pillars",
-      "block.more_varients.teal_concrete": "Teal Concrete Powder",
       "block.more_varients.terracotta_stairs": "Terracotta Stairs",
       "block.more_varients.cyan_terracotta_stairs": "Cyan Terracotta Stairs",
       "block.more_varients.pink_terracotta_stairs": "Pink Terracotta Stairs",
@@ -6717,7 +6594,6 @@
       "block.more_varients.white_concrete_stairs": "White Concrete Stairs",
       "block.more_varients.smooth_warped_planks": "Smooth Warped Planks",
       "block.more_varients.birch_mosaic_slab": "Spruce Mosaic Slab",
-      "block.more_varients.teal_concrete_powder": "Teal Concrete Powder",
       "advancements.a_true_carver.descr": "Carver A Log Into Chipped Log",
       "block.more_varients.oak_mosaic_stairs": "Oak Mosaic Stairs",
       "block.more_varients.white_terracotta_stairs": "White Terracotta Stairs",
@@ -6750,7 +6626,6 @@
       "block.more_varients.crimson_mosaic": "Crimson Mosaic",
       "block.more_varients.smooth_crimson_stairs": "Smooth Crimson Stairs",
       "block.more_varients.smooth_birch_slab": "Smooth Birch Slab",
-      "advancements.a_world_of_colors.descr": "Have any type of concrete",
       "item.more_varients.frost_weaving_pattern_item": "Frost Weaving Pattern",
       "block.more_varients.acacia_mosaic_slab": "Acacia Mosaic Slab",
       "block.more_varients.cracked_polished_deepslate": "Cracked Polished Deepslate",
@@ -6758,7 +6633,6 @@
       "block.more_varients.birch_mosaic_stairs": "Birch Mosaic Stairs",
       "block.more_varients.dark_oak_mosaic_stairs": "Dark Oak Mosaic Stairs",
       "item_group.more_varients.more_slabs": "More Slabs",
-      "block.more_varients.teal_wool": "Teal Wool",
       "block.more_varients.blue_terracotta_stairs": "Blue Terracotta Stairs",
       "block.more_varients.light_gray_terracotta_stairs": "Light Gray Terracotta Stairs",
       "block.more_varients.white_terracotta_slab": "White Terracotta Slab",
@@ -6938,10 +6812,6 @@
           },
           {
             "name": "Frost",
-            "children": []
-          },
-          {
-            "name": "Teals",
             "children": []
           }
         ]
